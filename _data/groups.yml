@@ -1,0 +1,23 @@
+application_and_data:
+  - languages
+  - frameworks
+  - components
+  - libraries
+  - templating
+  - databases
+utilities:
+  - static_site_generator
+  - code_documentation
+devops:
+  - ide
+  - dev_tools
+  - build_tools
+  - testing_tools
+  - version_control
+  - package_managers
+  - code_quality_tools
+  - continuous_integration
+business_tools:
+  - collaboration
+  - design
+  - other

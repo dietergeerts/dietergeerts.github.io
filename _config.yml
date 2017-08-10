@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Dieter Geerts
+google_analytics: UA-58057136-2
+gems:
+  - jekyll-avatar

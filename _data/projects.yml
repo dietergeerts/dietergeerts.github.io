@@ -1,0 +1,697 @@
+-
+  id:   fabricator_builder_next
+  name: Fabricator Builder Next
+  sites: 
+    - "https://github.com/dietergeerts/fabricator-builder-core"
+  role: Owner && Lead Software Engineer
+  description: |
+    The next iteration of my Fabricator Builder, still work in progress though.
+
+    Fabricator Builder is a 'build' tool for creating toolkits. These toolkits
+    can help speed up development and be used as styleguide and documentation.
+    You can also use such tookits in different projects that needs the same
+    styling and frameworks. Think of a toolkit as a small personal bootstrap.
+
+    More info can be found on the
+    [wiki](https://github.com/dietergeerts/fabricator-builder/wiki)
+    page of the original Fabricator Builder.
+  core_tools:
+    - nodejs
+    - html_5
+    - sass
+    - webpack
+    - intellij_idea
+  tools:
+    - javascript
+    - css_3
+    - lodash
+    - handlebars
+    - babel
+    - editorconfig
+    - wallaby
+    - mocha
+    - chai
+    - sinon
+    - git
+    - github
+    - npm
+    - eslint
+    - istanbul
+    - coveralls
+    - code_climate
+    - david_dm
+    - travic_ci
+-
+  id:   fabricator_builder
+  name: Fabricator Builder
+  sites: 
+    - "https://github.com/dietergeerts/fabricator-builder"
+  role: Owner && Lead Software Engineer
+  description: |
+    Fabricator Builder is a 'build' tool for creating toolkits. These toolkits
+    can help speed up development and be used as styleguide and documentation.
+    You can also use such tookits in different projects that needs the same
+    styling and frameworks. Think of a toolkit as a small personal bootstrap.
+
+    More info can be found on the
+    [wiki](https://github.com/dietergeerts/fabricator-builder/wiki) page.
+  core_tools:
+    - javascript
+    - html_5
+    - sass
+    - handlebars
+    - intellij_idea
+    - gulp
+  tools:
+    - css_3
+    - nodejs
+    - lodash
+    - editorconfig
+    - browsersync
+    - webpack
+    - git
+    - github
+    - npm
+    - eslint
+    - david_dm
+    - travic_ci
+-
+  id:   new_project
+  name: New Healthcare related project
+  role: Senior UI/UX/FE Web Application Engineer
+  description: |
+    Currently working on a new project in Healthcare, which will be used
+    globally around the world. I can't tell more about it right now due to a
+    NDA I signed. Stay tuned for more info....
+      
+    I am hired for web application parts, and my focus is mainly on application 
+    architecture and devOps (testing, bundling, developer experience, ...), 
+    while mentoring the junior software engineers.
+  core_tools:
+    - html_5
+    - sass
+    - angularjs
+    - ui_router
+    - fabricator_builder
+    - intellij_idea
+  tools:
+    - javascript
+    - css_3
+    - nodejs
+    - bootstrap
+    - angular_ui
+    - rxjs
+    - lodash
+    - momentjs
+    - handlebars
+    - mongodb
+    - jsdoc
+    - wallaby
+    - babel
+    - editorconfig
+    - webpack
+    - mocha
+    - chai
+    - sinon
+    - protractor
+    - karma
+    - jasmine
+    - git
+    - stash
+    - npm
+    - artifactory
+    - eslint
+    - istanbul
+    - jenkins
+    - jira
+    - confluence
+-
+  id:   mystaff_application
+  name: myStaff application
+  sites: 
+    - "https://healthcare.axians.be/solutions/mystaff/oncall/"
+  role: Senior UI/UX/FE Web Application Engineer
+  description: |
+    [Solvice](http://www.solvice.io/) approached us to collaborate with them
+    and take over their web application, which demonstrated their optimisation
+    service. Their intent was never to create own applications, but invest in
+    their optimisation engine, which makes use of [OptaPlanner](https://www.optaplanner.org/), 
+    and have applications make use of it. So this is where we stepped in. After 
+    assesing the existing demo application, it was clear that it would be too 
+    difficult to adapt it further and add new functionality, as it was fastly 
+    written purely for demo purposes, so myStaff was born.
+  
+    We built it from the ground up in a modular way, so new modules can be added
+    afterwards easily. The main focus for the first product release is on hospitals, 
+    though it's being developed with all kinds of organisations/industries in mind.
+
+    I took on the whole FE part, including UI/UX. One of the goals was to give the
+    product it's own distinct look & feel, and make it very user friendly. Together
+    with the functional analyst, I also worked on the UX process with the help of
+    tools like [Adobe XD](http://www.adobe.com/uk/products/experience-design.html),
+    trying to improve the interal UX process in our organisation and working more 
+    user oriented for own products.
+  core_tools:
+    - typescript
+    - html_5
+    - sass
+    - angular
+    - intellij_idea
+  tools:
+    - javascript
+    - css_3
+    - nodejs
+    - bootstrap
+    - ng_bootstrap
+    - rxjs
+    - lodash
+    - momentjs
+    - font_awesome
+    - mongodb
+    - babel
+    - editorconfig
+    - webpack
+    - gulp
+    - git
+    - stash
+    - npm
+    - artifactory
+    - tslint
+    - adobe_xd
+    - paint_net
+    - jira
+    - confluence
+    - slack
+-
+  id:   myhealthbox_gp_portal
+  name: myHealthbox GP portal
+  sites: 
+    - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
+  role: Senior FE Web Application Engineer
+  description: |
+    A portal for the general practitioner to create appointments and keep
+    track of his calendar. Not created as a module for the myHealthbox suite,
+    but custom made for the AZ Delta hospital.
+
+    I was called to help out with the more difficult parts and mentoring
+    the junior software developers, due to my recent experience with the used
+    tools.
+    
+    I always liked to mentor/teach others, and took the lead in this where 
+    needed for previous jobs, though it wasn't part of my job description. I
+    think it's important as a junior to have a mentor that can help you get
+    better faster, growing more confident, teaching you valuable things to 
+    improve yourself over time more and more, and maybe be a mentor yourself
+    one day. 
+  core_tools:
+    - html_5
+    - sass
+    - angularjs
+    - ui_router
+    - intellij_idea
+  tools:
+    - javascript
+    - css_3
+    - nodejs
+    - bootstrap
+    - angular_ui
+    - font_awesome
+    - postgresql
+    - gulp
+    - git
+    - stash
+    - npm
+    - jira
+    - confluence
+    - slack
+-
+  id:   myhealthbox_prototyping_2
+  name: myHealthbox prototyping
+  sites: 
+    - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
+  role: Senior UI/UX Web Application Engineer
+  description: |
+    Upon further improving our myHealthbox product line, we wanted to create
+    some UI/UX prototypes for new functionality to see how they could be 
+    integrated into existing systems and to test it out with users. Some of 
+    these prototypes where also be used for public tender.
+  core_tools:
+    - html_5
+    - sass
+    - fabricator_builder
+    - intellij_idea
+  tools:
+    - css_3
+    - nodejs
+    - font_awesome
+    - handlebars
+    - browsersync
+    - gulp
+    - git
+    - stash
+    - npm
+    - artifactory
+    - paint_net
+    - inkscape
+-
+  id:   schoolonline_planner_module
+  name: Schoolonline planner module
+  sites: 
+    - "http://schoolonline.be/"
+  role: Medior UI/UX/FE Web Application Engineer
+  description: |
+    Schoolonline wanted a replacement for their existing planner module and add
+    extra features to it in the process.  The goal was to have a very user 
+    friendly planning module, so teachers can use it to plan their courses, but
+    more importantly, administer their content and study books, keep track of
+    their yearly goals and have reports generated, as these are required for the
+    official plans an are used as proof of the given materials.
+     
+    I mainly focused on the toolkit, which includes custom components and
+    UI/UX styling. We Tried several existing calendar modules out there to see
+    if we could use those as a base, but after some research and several 
+    prototypes, we concluded that it would be too much work to adapt them to
+    our needs, so we created our own calendar, specificly tailored to our needs,
+    which took the most development time, to have it as easy as possible.
+    
+    Together with [mono](https://mono.company/), we worked on the UI and UX part.
+    They especially focussed on the analysis and user testing, while we did more
+    of the actual implementation, adapting where needed.
+  core_tools:
+    - html_5
+    - sass
+    - angularjs
+    - ui_router
+    - fabricator_builder
+    - intellij_idea
+  tools:
+    - javascript
+    - css_3
+    - nodejs
+    - bootstrap
+    - angular_ui
+    - lodash
+    - momentjs
+    - font_awesome
+    - handlebars
+    - jade
+    - mongodb
+    - browsersync
+    - gulp
+    - git
+    - stash
+    - npm
+    - jira
+    - confluence
+    - slack
+-
+  id:   planon_data_migration
+  name: Planon data migration
+  role: Project Manager && Functional Analyst
+  description: |
+    One of the projects of our Business Analytics division had gotten in a very
+    bad state, and the one working on it had to go on sick leave. With no one
+    available there, they asked me to take over the project for a very short
+    time, as it was already supposed to be ended, and save it.
+    
+    With no other direct projects, I said yes and stepped up to save it. The
+    project was about migrating data from several systems to the new Planon
+    system. After the initial data migrition, a continuous one will be setup
+    for data that is being administrated in other system, but is needed in
+    Planon for use in references.
+    
+    With all information and development already done in so many places, I
+    started to gather it into one central place, using Confluence, so we
+    could clearly see the current state and what things should be done. With
+    all this in place, we worked out all missing parts in collaboration with
+    the client end were able to finish this part of the project.
+    
+    With this project I had the chance to show off my skills as project manager
+    and functional analyst. Especially the last is important for me, as imho,
+    being able to think like a functional analyst makes me a better engineer.
+  core_tools:
+    - sql_server
+    - jira
+    - confluence
+  tools: []
+-
+  id:   qlik_demonstrator
+  name: Qlik demonstrator
+  role: Medior UI/UX/FE Web Application Engineer
+  description: |
+    Our Business Analytics division was looking into using [Qlik](http://www.qlik.com/nl-nl)
+    in future projects, so a customer can easily see live data changes and analyse it.
+    Before commiting to an agreement between our company and Qlick, we wanted to see in
+    how far we could make use of it, even the possiblity to integrate it into apps the
+    Business Applications division creates.
+    
+    So I was asked to create a demo project together with someone from Business Analytics.
+    I took the UI/UX implementation on me and created an application as a Qlik Sense mashup.
+  core_tools:
+    - html_5
+    - sass
+    - angularjs
+    - intellij_idea
+    - qlik_sense
+  tools:
+    - javascript
+    - css_3
+    - nodejs
+    - bootstrap
+    - font_awesome
+    - gulp
+    - git
+    - stash
+    - npm
+-
+  id:   codex_veb_interface
+  name: CODEX VEB interface
+  role: Medior UI/UX/FE Web Applicatin Engineer
+  description: |
+    The client wanted an application to solve a specific problem: The big
+    database wasn't always available, but work should be able to continue.
+    So They wanted an application to work with the data, that would sync
+    when the database became available, but stored the data locally on the
+    company database when no connection could be made.
+    
+    We created a simple ASP.NET MVC web application, as all operations
+    were simple crud ones, and the application would only be used by people
+    that did know the data inside-out, so no need for special UI/UX 
+    requirements. I again was lead engineer after the successful previous
+    ASP.NET project.
+  core_tools:
+    - html_5
+    - c_sharp
+    - bootstrap
+    - asp_net
+    - visual_studio
+  tools:
+    - javascript
+    - css_3
+    - sql_server
+    - resharper
+    - git
+    - stash
+    - nuget
+    - jira
+    - confluence
+-
+  id:   hospindex_data_provider_module
+  name: HospIndex data provider module
+  sites: 
+    - "http://www.actualcare.be/nl-hospindex/"
+  role: Medior UI/UX/FE Web Application Engineer
+  description: |
+    [HospIndex](http://www.actualcare.be/nl-hospindex/) is like the GoldenPages 
+    for hospitals. We created the data provider part, where hospitals can manage 
+    all their data. This web application used the provided REST api to get and 
+    store the actual data. We also did custom authentication through the provided 
+    web services. I was lead engineer as the one with the most ASP.NET knowledge
+    in the company. UI/UX has been decided in collaboration with the client.
+  core_tools:
+    - html_5
+    - c_sharp
+    - angularjs
+    - bootstrap
+    - asp_net
+    - visual_studio
+  tools:
+    - javascript
+    - css_3
+    - sass
+    - nodejs
+    - angular_ui
+    - sql_server
+    - resharper
+    - gulp
+    - git
+    - stash
+    - npm
+    - nuget
+    - jira
+    - confluence
+-
+  id:   myhealthbox
+  name: myHealthbox
+  sites: 
+    - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
+  role: Medior UI/UX/FE Web Application Engineer
+  description: |
+    Our very first product, based on a project we did for a hospital. Being the
+    first one also implied a lot of difficulties, especially on transitioning
+    from a project based workflow to a product based one. This was also reflected
+    on the actual product, behind the scenes, but we learned a lot from it.
+    
+    The product consists of multiple big parts/modules and was also built in a
+    way that extra modules could be added in the future. Besides the product
+    itself, we created an integration module for each hospital, as they way
+    data is treated and stored is nowhere the same due to historical reasons.
+    I was responsible for the toolkit and patient portal, and also helped out
+    on the other modules as much as possible.
+    
+    **Toolkit** - This is a [Fabricator](https://github.com/dietergeerts/fabricator-builder)
+    based toolkit where we create all components and styling needed for the 
+    various web modules. We also took advantage of this to add documentation
+    on why we chose certain stylings and behaviours for getting a user friendly
+    UX, as the app would be used by a large group of different types of people.  
+    **Kiosk** - This comes with a kiosk hardware and is used for helping
+    patients sign in, giving them their ticket and route to their appointment.
+    It's built on top of spring webflow, using thymeleaf templates.  
+    **Patient Portal** - A web application for patients to make appointments,
+    see upcoming ones, check documents and update their data. Patients can log
+    in with their eID.  
+    **Admin Portal** - This module gives the hospital a way to customize the
+    other parts of the product through settings, data management etc....
+  core_tools:
+    - html_5
+    - sass
+    - java
+    - angularjs
+    - fabricator_builder
+    - intellij_idea
+  tools:
+    - javascript
+    - css_3
+    - nodejs
+    - neat
+    - spring
+    - refills
+    - bourbon
+    - bitters
+    - handlebars
+    - thymeleaf
+    - postgresql
+    - browsersync
+    - gulp
+    - gradle
+    - git
+    - stash
+    - npm
+    - bower
+    - paint_net
+    - inkscape
+    - jira
+    - confluence
+-
+  id:   iknow_application_prototyping
+  name: iKnow Application Prototyping
+  sites: 
+    - "http://www.intersystems.com/bnl-nl/onze-producten/ingebedde-technologieen/iknow/"
+  role: Medior UI/UX Web Application Engineer
+  description: |
+    We were asked to create some prototypes for an application that uses iKnow for
+    data analysis. The main usage would be that there could be analysis on the 
+    doctors' briefings to identify certain patterns and draw conclusions from it.
+    
+    I created high-level UI/UX wireframes to show how hospitals could easily
+    analyse the data by dynamic views that showed the context path, so different
+    paths could be analyzed together.
+  core_tools: 
+    - powerpoint
+    - confluence
+    - paint_net
+  tools: []
+-
+  id:   myhealthbox_prototyping
+  name: myHealthbox Prototyping
+  sites: 
+    - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
+  role: Junior UI/UX Web Application Engineer
+  description: |
+    During the first phase of our first own product, now known as 
+    [myHealthbox](https://healthcare.axians.be/solutions/myhealthbox/online-portaal/),
+    we had the need to prototype it, so we could review all de decisions made
+    up until that point, and be able to still make changes on features and
+    functional details, so that we would end up with a user friendly product.
+    
+    We created a static website as prototype, so we could make changes very easy
+    and fast and iterate over it quickly. It also was build quick and dirty as
+    it was decided we wouldn't take anything from this to start the actual product.
+  core_tools: 
+    - html_5
+    - sass
+    - jade
+    - metalsmith
+    - intellij_idea
+  tools:
+    - css_3
+    - browsersync
+    - gulp
+    - git
+    - stash
+    - nodejs
+-
+  id:   marketing_websites_prototyping
+  name: Marketing Websites Prototyping
+  role: Junior UI/UX/FE Website Engineer
+  description: |
+    As the one with the most experience on cms websites, I was assigned to work
+    on prototypes for 3 new marketing websites, all to be created with the help
+    of drupal, as that would give us the most customization options, and most 
+    importantly, being able to code changes and upgrades, in case something goes
+    wrong, or for when we need to deploy different versions of them.
+    
+    I worked on these alone, and had the freedom to also design a great deal of
+    the websites, keeping in mind the given requirements. Before starting these,
+    I had the chance to study PHP and get my certification.
+  core_tools:
+    - html_5
+    - sass
+    - php
+    - intellij_idea
+    - drupal
+  tools:
+    - css_3
+    - mysql
+    - git
+    - stash
+    - paint_net   
+-
+  id:   studysteps
+  name: StudySteps
+  role: Junior UI/FE Web Application Engineer
+  description: |
+    StudySteps is one of the online learning applications from 
+    [Publisher VAN IN](http://www.vanin.be/nl). It's created to help high 
+    school students with math through many kind of exercises. It includes 
+    gamification concepts to stimulate using the app and let students having 
+    fun while learning. There is also an option to get a mentor, which can be 
+    contacted one 2 one to get personal help and reviews.
+    
+    Besides the actual application, there is also a commercial website, created
+    in dotcms, which was chosen for it's language Java as most developers on the
+    project knew it already. At the time I worked on the project, we didn't got
+    a great experience from it though, as it was not flexible enough. Being the
+    one with the most experience in cms systems and theming/styling, I was asked
+    to maintain and further develop the marketing site, in collaboration with 
+    the sales team of publisher VAN IN.
+    
+    I came on the project when the decision was made to rewrite a great part of
+    it in AngularJS. We had a 2 day course of the framework, as it was fairly
+    new then, before starting on the rewrite. I mostly wrote on the custom
+    components, including a customized ckeditor with custom plugins.
+  core_tools:
+    - html_5
+    - sass
+    - angularjs
+    - intellij_idea
+    - dotcms
+  tools:
+    - javascript
+    - css_3
+    - java
+    - spring
+    - postgresql
+    - gradle
+    - git
+    - stash
+    - jira
+    - confluence   
+-
+  id:   bayer_mbip
+  name: Bayer Cropscience Application
+  role: Junior UI/UX/FE Web Application Engineer
+  description: |
+    [Bayer](http://www.bayer.be/) was in need of an application to support its 
+    R&D work. two of the main requirements were the ability to handle very large 
+    data sets very well and have a web application which can be used on-site. 
+    When the application started, Silverlight was the prefered framework at 
+    Bayer to write web apps. It was also used because of how it can handle data 
+    tables very well in contrast to other web frameworks.
+    
+    The application is built on the MVVM principle and is using the Telerik UI
+    controls. Besides implementing the different xaml views and defining the
+    application architecture, I also focussed on styling. Though I did came on
+    the project very late in it's lifecycle, there was still lots to refine.
+  core_tools: 
+    - c_sharp
+    - silverlight
+    - telerik
+    - visual_studio
+  tools:
+    - xaml
+    - resharper
+    - stash
+    - subversion
+    - nuget
+    - jira
+    - confluence
+-
+  id:   dworks
+  name: DWorks Vectorworks Plugins
+  sites:
+    - "http://www.vectorlab.info/index.php?title=Dieter_Geerts"
+    - "https://github.com/dietergeerts/dlibrary"
+  portfolio:
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhIglMnfz-cG-JVttsQ"
+  role: Owner && Lead Software Engineer
+  description: |
+    After several years of creating Vectorworks plugins in VectorScript, the
+    built-in programming language which really took a lot of Pascal, I switched
+    to using python from the moment it was available. This made it possible to
+    create plugins more easily, faster, and with a lot more possibilities.
+
+    With the start of creating python based plugins, I also started with
+    [DLibrary](https://github.com/dietergeerts/dlibrary), a library for easier
+    plugin creation, which hides away all inconsistencies and gotcha's/bugs you
+    had to know, as all API calls were copied from the VectorScript language. 
+    The first main focus of this library is to have form creation very easy by
+    adding an xml layer to visually lay out the form, and using it by adding a
+    data layer that then get's coupled with two-way data binding. The second 
+    focus was on development experience and to quickly setup a new plugin and 
+    all it's behaviours. [DLibrary](https://github.com/dietergeerts/dlibrary) 
+    is open-source, and though I'm not active on it anymore, can still be used 
+    to create Vectorworks plugins with python. I really hope others can still 
+    contribute to it and make it even better.
+
+    I'm not active on it anymore, because I had to stop my business as of
+    medical reasons, and it was a very hard decision to make. As I didn't want
+    [my plugins](http://www.vectorlab.info/index.php?title=Dieter_Geerts) to go 
+    to waste, I put their repositories on public, so everyone can use them, and 
+    maybe add some new features.
+
+    During this python period, I had the change to work out some great plugins
+    for some customers, putting my skills to use and covering the whole package
+    of delivering software from start to finish. I did it all, from project
+    management, to the analysis, implementation and delivery. I really learned
+    a lot from this and take all of it with me in my further career.
+
+    I would also like to thank the Vectorworks scripting community again. Each
+    of them were really great and helpful, and I really enjoyed being around. I
+    really believe a great community can make a product so much better, and I
+    love helping others, and being helped when needed.
+  core_tools:
+    - python
+    - intellij_idea
+    - vectorworks
+    - confluence
+  tools:
+    - nodejs
+    - editorconfig
+    - gulp
+    - git
+    - github
+    - stash
+    - npm
+    - paint_net
+    - jira

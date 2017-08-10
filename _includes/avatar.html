@@ -1,0 +1,49 @@
+<style>
+    .my-avatar {
+        position: absolute;
+        top: 8.5em;
+    }
+
+    .my-avatar img {
+        border: 1px solid white;
+        width: 120px;
+        height: 120px;
+    }
+
+    .main-content {
+        padding-top: 6.5rem;
+    }
+
+    @media (min-width: 42em) {
+        .my-avatar {
+            top: 10em;
+        }
+
+        .my-avatar img {
+            width: 140px;
+            height: 140px;
+        }
+
+        .main-content {
+            padding-top: 7.5rem;
+        }
+    }
+
+    @media (min-width: 64em) {
+        .my-avatar {
+            top: 15em;
+        }
+
+        .my-avatar img {
+            width: 160px;
+            height: 160px;
+        }
+
+        .main-content {
+            padding-top: 8.5rem;
+        }
+    }
+</style>
+<div class="my-avatar">
+    {% avatar dietergeerts size=160 %}
+</div>

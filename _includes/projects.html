@@ -1,0 +1,66 @@
+<hr/>
+
+<h1>Experience</h1>
+
+{% assign allProjectIds = "" | split: "" %}
+{% for month in site.data.time %}
+{% for projectId in month.projects %}
+{% unless allProjectIds contains projectId %}
+
+{% assign allProjectsSize = allProjectIds | size %}
+{% if allProjectsSize > 0 %}
+<hr/>
+{% endif %}
+
+{% assign allProjectIds = allProjectIds | push: projectId %}
+{% assign project = site.data.projects | where: "id", projectId | first %}
+
+<h2>
+  {{ project.name }}
+  <small style="font-size: 0.75em;">
+    {% for site in project.sites %}<a
+    href="{{ site }}" target="_blank"><img
+    src="/assets/img/link.png" width="24" height="24" style="position: relative; top: 4px;"></a>{% endfor %}
+  </small>
+</h2>
+
+<p>
+  <strong>Role</strong> {{ project.role }}
+  <br/>
+  <strong>Logs</strong>
+  {% assign months = "" | split: "" %}
+  {% for projectMonth in site.data.time %}
+  {% if projectMonth.projects contains project.id %}
+  {% assign months = months | push: projectMonth.month %}
+  {% endif %}
+  {% endfor %}
+
+  {% assign lastLog = months | first %}
+  {% assign firstLog = months | last %}
+
+  {% if lastLog == firstLog %}
+  {{ lastLog | append: "-01" | date: "%B %Y" }}
+  {% endif %}
+  {% unless lastLog == firstLog %}
+  {% assign lastYear = lastLog | slice: 0, 4 %}
+  {% assign firstYear = firstLog | slice: 0, 4 %}
+  {% if lastYear == firstYear %}
+  {{ lastLog | append: "-01" | date: "%B" }}
+  {% endif %}
+  {% unless lastYear == firstYear %}
+  {{ lastLog | append: "-01" | date: "%B %Y" }}
+  {% endunless %}
+  ...
+  {{ firstLog | append: "-01" | date: "%B %Y" }}
+  {% endunless %}
+</p>
+
+<p>{{ project.description | markdownify }}</p>
+
+{% include tools.html toolIds=project.core_tools size="64" %}
+
+{% include tools.html toolIds=project.tools size="48" %}
+
+{% endunless %}
+{% endfor %}
+{% endfor %}

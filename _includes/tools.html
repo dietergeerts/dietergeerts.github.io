@@ -1,0 +1,24 @@
+<div style="display: flex; flex-wrap: wrap;">
+    {% for tool in site.data.tools %}
+    {% if include.toolIds contains tool.id %}
+    <a href="{{ tool.href }}" target="_blank" title="{{ tool.name }}"
+       style="text-align: center;">
+        {% unless include.size == "64" %}
+        <img src="/assets/img/tools/{{ tool.id }}.png"
+             width="{{ include.size }}" height="{{ include.size }}"
+             style="margin: 5px; display: block;">
+        {% endunless %}
+        {% if include.size == "64" %}
+        <div style="margin: 9px;">
+            <img src="/assets/img/tools/{{ tool.id }}.png"
+                 width="{{ include.size }}" height="{{ include.size }}"
+                 style="display: block; margin: 0 10px;">
+            <h6 style="display: block; margin-top: 10px; width: 84px; height: 2rem;">
+                {{ tool.name }}
+            </h6>
+        </div>
+        {% endif %}
+    </a>
+    {% endif %}
+    {% endfor %}
+</div>
