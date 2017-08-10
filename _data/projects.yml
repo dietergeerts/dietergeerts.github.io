@@ -466,6 +466,9 @@
   name: myHealthbox
   sites: 
     - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
+  portfolio:
+    - "http://www.dworks.be/portfolio/myhealthbox/apps-toolkit/"
+    - "http://www.dworks.be/portfolio/myhealthbox/kiosk-toolkit/"
   role: Medior UI/UX/FE Web Application Engineer
   description: |
     Our very first product, based on a project we did for a hospital. Being the
