@@ -229,6 +229,23 @@
   name: myHealthbox prototyping
   sites: 
     - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
+  portfolio:
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfYpHhwfIU-cuYs_hw"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfYs4SXNS7O4_LEmoA"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfYrDqulCCNWdOwocA"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfYqJ0j0Z_T2u2hU4Q"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsOS0Ml_aSpGRa1sQ"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsRmQmioA1zBtVNwQ"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsRmQmioA1zBtVNwQ"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsUWGYtWwwILXjYFA"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsSgNV18Z4hARpf-Q"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsVfYmR1tu_ggXI0g"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsKQxjHIGxAs_s8ew"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsQN-2K3c7mRL4AUA"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsLBIzTlHHeGKf8Vw"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsM9RsnMd2aG8VWHg"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsNwTMlZuZWXGUCmg"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsPIZvJHYrf4Dl8sg"
   role: Senior UI/UX Web Application Engineer
   description: |
     Upon further improving our myHealthbox product line, we wanted to create
@@ -258,6 +275,16 @@
   name: Schoolonline planner module
   sites: 
     - "http://schoolonline.be/"
+  portfolio:
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFkID0Xq_oqjZWIkw"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFkID0Xq_oqjZWIkw"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFhgX8S1h3cXVNvvQ"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFi58yS3kKsSRe4UQ"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFl5sU_HRyw_1gDYw"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFmL0D7Mm2wngl03A"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFn4pbU_0IXNzeuTg"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFf-lx_lND7VommOw"
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFgmFjGnz3c6cXIeQ"
   role: Medior UI/UX/FE Web Application Engineer
   description: |
     Schoolonline wanted a replacement for their existing planner module and add
@@ -366,6 +393,8 @@
 -
   id:   codex_veb_interface
   name: CODEX VEB interface
+  portfolio:
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhIkIfmxsCMj4ApIAgw"
   role: Medior UI/UX/FE Web Applicatin Engineer
   description: |
     The client wanted an application to solve a specific problem: The big
@@ -400,6 +429,8 @@
   name: HospIndex data provider module
   sites: 
     - "http://www.actualcare.be/nl-hospindex/"
+  portfolio:
+    - "https://1drv.ms/b/s!Ao0jlKHtrXDyhIkGYjSt7qaCXrLMSA"
   role: Medior UI/UX/FE Web Application Engineer
   description: |
     [HospIndex](http://www.actualcare.be/nl-hospindex/) is like the GoldenPages 
@@ -543,6 +574,8 @@
 -
   id:   marketing_websites_prototyping
   name: Marketing Websites Prototyping
+  portfolio:
+    - "https://1drv.ms/p/s!Ao0jlKHtrXDyhIgpnO-mN2cZg4usXg"
   role: Junior UI/UX/FE Website Engineer
   description: |
     As the one with the most experience on cms websites, I was assigned to work
@@ -695,3 +728,46 @@
     - npm
     - paint_net
     - jira
+-
+  id:   thesis_software_engineer
+  name: Thesis Software Engineer
+  portfolio:
+    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhIgn5IJfzxaLKOXZtg"
+    - "https://1drv.ms/b/s!Ao0jlKHtrXDyhIgmxto2lykMMawlig"
+  role: Owner && Lead Software Engineer
+  description: |
+    After finishing school as Master in Building Engineering, I worked some 
+    years for architects, doing mainly design and CAD Management. I still
+    loved programming and kept doing that in my free time, but decided that I
+    really wanted to learn all details of developing an application from begin
+    to end, so I started to study again through evening school for Software
+    Engineer.
+    
+    We had the possibility to pick modules in different order and spread them
+    out throughough the years, so that we could combine the study with our other
+    daily activities. As of that time, I had a full-time job and did sport 
+    acrobatics in competition, which took 16 hours of training per week. So I
+    opted to only do a few modules each year, taking longer than the average, but
+    being able to combine all of this together.
+    
+    For my thesis, I had chosen to write a web application for architects, as I
+    did know that area pretty well. Silverlight was at that time a very good
+    chose for the more heavy ones, as it did handle large data sets pretty well.
+    I spent a lot of time with the analysis, and wrote up a bunch of storyboards
+    before actually starting with development. These storyboards really show that
+    I already was into UX, thinking about user-first and how to make up the UI in
+    such a way that it would be very user friendly. Not only that, but also my
+    analytic capabilities, seeing a good overview of what the application had to
+    be and working all parts out step by step.
+    
+    I really enjoyed doing my thesis, learned a lot from it and imho, a very 
+    good start for my career in UI/UX/FE Web Application Engineering.
+  core_tools:
+    - c_sharp
+    - php
+    - silverlight
+    - xaml
+    - mysql
+    - visual_studio
+    - vectorworks
+  tools: []

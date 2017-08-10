@@ -165,9 +165,17 @@
   projects:
     - bayer_mbip
 -
+  month: "2013-06"
+  projects:
+    - thesis_software_engineer
+-
   month: "2013-05"
   projects:
     - bayer_mbip
+-
+  month: "2008-09"
+  projects:
+    - thesis_software_engineer
 -
   month: "2007-04"
   projects:
