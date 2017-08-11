@@ -1,9 +1,10 @@
 -
   id:   fabricator_builder_next
   name: Fabricator Builder Next
+  role: Owner && Lead Software Engineer
   sites: 
     - "https://github.com/dietergeerts/fabricator-builder-core"
-  role: Owner && Lead Software Engineer
+  portfolio: []
   description: |
     The next iteration of my Fabricator Builder, still work in progress though.
 
@@ -44,9 +45,10 @@
 -
   id:   fabricator_builder
   name: Fabricator Builder
+  role: Owner && Lead Software Engineer
   sites: 
     - "https://github.com/dietergeerts/fabricator-builder"
-  role: Owner && Lead Software Engineer
+  portfolio: []
   description: |
     Fabricator Builder is a 'build' tool for creating toolkits. These toolkits
     can help speed up development and be used as styleguide and documentation.
@@ -79,6 +81,8 @@
   id:   new_project
   name: New Healthcare related project
   role: Senior UI/UX/FE Web Application Engineer
+  sites: []
+  portfolio: []
   description: |
     Currently working on a new project in Healthcare, which will be used
     globally around the world. I can't tell more about it right now due to a
@@ -128,9 +132,10 @@
 -
   id:   mystaff_application
   name: myStaff application
+  role: Senior UI/UX/FE Web Application Engineer
   sites: 
     - "https://healthcare.axians.be/solutions/mystaff/oncall/"
-  role: Senior UI/UX/FE Web Application Engineer
+  portfolio: []
   description: |
     [Solvice](http://www.solvice.io/) approached us to collaborate with them
     and take over their web application, which demonstrated their optimisation
@@ -185,9 +190,10 @@
 -
   id:   myhealthbox_gp_portal
   name: myHealthbox GP portal
+  role: Senior FE Web Application Engineer
   sites: 
     - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
-  role: Senior FE Web Application Engineer
+  portfolio: []
   description: |
     A portal for the general practitioner to create appointments and keep
     track of his calendar. Not created as a module for the myHealthbox suite,
@@ -227,26 +233,11 @@
 -
   id:   myhealthbox_prototyping_2
   name: myHealthbox prototyping
+  role: Senior UI/UX Web Application Engineer
   sites: 
     - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
   portfolio:
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfYpHhwfIU-cuYs_hw"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfYs4SXNS7O4_LEmoA"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfYrDqulCCNWdOwocA"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfYqJ0j0Z_T2u2hU4Q"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsOS0Ml_aSpGRa1sQ"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsRmQmioA1zBtVNwQ"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsRmQmioA1zBtVNwQ"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsUWGYtWwwILXjYFA"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsSgNV18Z4hARpf-Q"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsVfYmR1tu_ggXI0g"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsKQxjHIGxAs_s8ew"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsQN-2K3c7mRL4AUA"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsLBIzTlHHeGKf8Vw"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsM9RsnMd2aG8VWHg"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsNwTMlZuZWXGUCmg"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhqsPIZvJHYrf4Dl8sg"
-  role: Senior UI/UX Web Application Engineer
+    - "https://1drv.ms/f/s!Ao0jlKHtrXDyhsI7XzRJ9EKBEJIIwg"
   description: |
     Upon further improving our myHealthbox product line, we wanted to create
     some UI/UX prototypes for new functionality to see how they could be 
@@ -273,19 +264,11 @@
 -
   id:   schoolonline_planner_module
   name: Schoolonline planner module
+  role: Medior UI/UX/FE Web Application Engineer
   sites: 
     - "http://schoolonline.be/"
   portfolio:
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFkID0Xq_oqjZWIkw"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFkID0Xq_oqjZWIkw"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFhgX8S1h3cXVNvvQ"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFi58yS3kKsSRe4UQ"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFl5sU_HRyw_1gDYw"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFmL0D7Mm2wngl03A"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFn4pbU_0IXNzeuTg"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFf-lx_lND7VommOw"
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhfFgmFjGnz3c6cXIeQ"
-  role: Medior UI/UX/FE Web Application Engineer
+    - "https://1drv.ms/f/s!Ao0jlKHtrXDyhsI8UnUAC1_XG7oCWw"
   description: |
     Schoolonline wanted a replacement for their existing planner module and add
     extra features to it in the process.  The goal was to have a very user 
@@ -335,6 +318,8 @@
   id:   planon_data_migration
   name: Planon data migration
   role: Project Manager && Functional Analyst
+  sites: []
+  portfolio: []
   description: |
     One of the projects of our Business Analytics division had gotten in a very
     bad state, and the one working on it had to go on sick leave. With no one
@@ -365,6 +350,8 @@
   id:   qlik_demonstrator
   name: Qlik demonstrator
   role: Medior UI/UX/FE Web Application Engineer
+  sites: []
+  portfolio: []
   description: |
     Our Business Analytics division was looking into using [Qlik](http://www.qlik.com/nl-nl)
     in future projects, so a customer can easily see live data changes and analyse it.
@@ -393,9 +380,10 @@
 -
   id:   codex_veb_interface
   name: CODEX VEB interface
-  portfolio:
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhIkIfmxsCMj4ApIAgw"
   role: Medior UI/UX/FE Web Applicatin Engineer
+  sites: []
+  portfolio:
+    - "https://1drv.ms/f/s!Ao0jlKHtrXDyhsI-y0TkdWmXhWJEJg"
   description: |
     The client wanted an application to solve a specific problem: The big
     database wasn't always available, but work should be able to continue.
@@ -427,11 +415,11 @@
 -
   id:   hospindex_data_provider_module
   name: HospIndex data provider module
+  role: Medior UI/UX/FE Web Application Engineer
   sites: 
     - "http://www.actualcare.be/nl-hospindex/"
   portfolio:
-    - "https://1drv.ms/b/s!Ao0jlKHtrXDyhIkGYjSt7qaCXrLMSA"
-  role: Medior UI/UX/FE Web Application Engineer
+    - "https://1drv.ms/f/s!Ao0jlKHtrXDyhsI9E_YZGvKW-DCxsQ"
   description: |
     [HospIndex](http://www.actualcare.be/nl-hospindex/) is like the GoldenPages 
     for hospitals. We created the data provider part, where hospitals can manage 
@@ -464,12 +452,12 @@
 -
   id:   myhealthbox
   name: myHealthbox
+  role: Medior UI/UX/FE Web Application Engineer
   sites: 
     - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
   portfolio:
     - "http://www.dworks.be/portfolio/myhealthbox/apps-toolkit/"
     - "http://www.dworks.be/portfolio/myhealthbox/kiosk-toolkit/"
-  role: Medior UI/UX/FE Web Application Engineer
   description: |
     Our very first product, based on a project we did for a hospital. Being the
     first one also implied a lot of difficulties, especially on transitioning
@@ -529,9 +517,10 @@
 -
   id:   iknow_application_prototyping
   name: iKnow Application Prototyping
+  role: Medior UI/UX Web Application Engineer
   sites: 
     - "http://www.intersystems.com/bnl-nl/onze-producten/ingebedde-technologieen/iknow/"
-  role: Medior UI/UX Web Application Engineer
+  portfolio: []
   description: |
     We were asked to create some prototypes for an application that uses iKnow for
     data analysis. The main usage would be that there could be analysis on the 
@@ -548,9 +537,10 @@
 -
   id:   myhealthbox_prototyping
   name: myHealthbox Prototyping
+  role: Junior UI/UX Web Application Engineer
   sites: 
     - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
-  role: Junior UI/UX Web Application Engineer
+  portfolio: []
   description: |
     During the first phase of our first own product, now known as 
     [myHealthbox](https://healthcare.axians.be/solutions/myhealthbox/online-portaal/),
@@ -577,9 +567,10 @@
 -
   id:   marketing_websites_prototyping
   name: Marketing Websites Prototyping
-  portfolio:
-    - "https://1drv.ms/p/s!Ao0jlKHtrXDyhIgpnO-mN2cZg4usXg"
   role: Junior UI/UX/FE Website Engineer
+  sites: []
+  portfolio:
+    - "https://1drv.ms/f/s!Ao0jlKHtrXDyhsI_1KTbJUVIi42Uow"
   description: |
     As the one with the most experience on cms websites, I was assigned to work
     on prototypes for 3 new marketing websites, all to be created with the help
@@ -606,6 +597,8 @@
   id:   studysteps
   name: StudySteps
   role: Junior UI/FE Web Application Engineer
+  sites: []
+  portfolio: []
   description: |
     StudySteps is one of the online learning applications from 
     [Publisher VAN IN](http://www.vanin.be/nl). It's created to help high 
@@ -647,6 +640,8 @@
   id:   bayer_mbip
   name: Bayer Cropscience Application
   role: Junior UI/UX/FE Web Application Engineer
+  sites: []
+  portfolio: []
   description: |
     [Bayer](http://www.bayer.be/) was in need of an application to support its 
     R&D work. two of the main requirements were the ability to handle very large 
@@ -675,12 +670,12 @@
 -
   id:   dworks
   name: DWorks Vectorworks Plugins
+  role: Owner && Lead Software Engineer
   sites:
     - "http://www.vectorlab.info/index.php?title=Dieter_Geerts"
     - "https://github.com/dietergeerts/dlibrary"
   portfolio:
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhIglMnfz-cG-JVttsQ"
-  role: Owner && Lead Software Engineer
+    - "https://1drv.ms/f/s!Ao0jlKHtrXDyhsI6ZhlQc6s5UKVGlQ"
   description: |
     After several years of creating Vectorworks plugins in VectorScript, the
     built-in programming language which really took a lot of Pascal, I switched
@@ -734,10 +729,10 @@
 -
   id:   thesis_software_engineer
   name: Thesis Software Engineer
-  portfolio:
-    - "https://1drv.ms/i/s!Ao0jlKHtrXDyhIgn5IJfzxaLKOXZtg"
-    - "https://1drv.ms/b/s!Ao0jlKHtrXDyhIgmxto2lykMMawlig"
   role: Owner && Lead Software Engineer
+  sites: []
+  portfolio:
+    - "https://1drv.ms/f/s!Ao0jlKHtrXDyhsJC_jqxGR06NatdkA"
   description: |
     After finishing school as Master in Building Engineering, I worked some 
     years for architects, doing mainly design and CAD Management. I still
