@@ -1,0 +1,13 @@
+{% for group in site.data.groups %}
+{% assign groupToolIds = "" | split: "" %}
+{% for toolId in include.toolIds %}
+{% assign tool = site.data.tools | where: "id", toolId | first %}
+{% if tool.group == group %}
+{% assign groupToolIds = groupToolIds | push: toolId %}
+{% endif %}
+{% endfor %}
+<fieldset>
+  <legend>{{ group.name }}</legend>
+  {% include tools.html toolIds=groupToolIds size=include.size %}
+</fieldset>
+{% endfor %}

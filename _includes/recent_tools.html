@@ -1,8 +1,8 @@
 <hr/>
 
-<h1>The tools I use</h1>
+<h1>Tools used</h1>
 
-<h2>Up until 6 months ago</h2>
+<h2>Last 6 months</h2>
 
 {% assign projectIds = "" | split: "" %}
 {% for month in (0...5) %}
@@ -27,9 +27,9 @@
 {% endfor %}
 {% assign toolIdsA = toolIds | uniq %}
 
-{% include tools.html toolIds=toolIdsA size="64" %}
+{% include tools_grouped.html toolIds=toolIdsA size="64" %}
 
-<h2>Up until 1 year ago</h2>
+<h2>Last year</h2>
 
 {% assign projectIds = "" | split: "" %}
 {% for month in (6...11) %}
@@ -62,7 +62,7 @@
 
 {% include tools.html toolIds=toolIdsB size="48" %}
 
-<h2>More than 1 year ago</h2>
+<h2>Long ago</h2>
 
 {% assign projectIds = "" | split: "" %}
 {% assign total = site.data.time | size | minus: 1 %}
