@@ -1,8 +1,12 @@
 {% for group in site.data.groups %}
 {% assign groupToolIds = "" | split: "" %}
+{{ groupToolIds }}
 {% for toolId in include.toolIds %}
+{{ toolId }}
 {% assign tool = site.data.tools | where: "id", toolId | first %}
+{{ tool }}
 {% if tool.group == group %}
+{{ tool.group }}
 {% assign groupToolIds = groupToolIds | push: toolId %}
 {% endif %}
 {% endfor %}
