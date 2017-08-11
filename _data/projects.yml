@@ -767,8 +767,8 @@
     - php
     - silverlight
     - xaml
-    - mysql
     - visual_studio
     - vectorworks
   tools: 
+    - mysql
     - mercurial
