@@ -634,6 +634,7 @@
     - gradle
     - git
     - stash
+    - nexus
     - jira
     - confluence   
 -
@@ -665,6 +666,7 @@
     - stash
     - subversion
     - nuget
+    - nexus
     - jira
     - confluence
 -
@@ -768,4 +770,5 @@
     - mysql
     - visual_studio
     - vectorworks
-  tools: []
+  tools: 
+    - mercurial

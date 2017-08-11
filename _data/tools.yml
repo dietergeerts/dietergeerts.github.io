@@ -365,6 +365,12 @@
   type:   version_control
   group:  devops
 -
+  id:     mercurial
+  name:   Mercurial
+  href:   "https://www.mercurial-scm.org/"
+  type:   version_control
+  group:  devops
+-
   id:     npm
   name:   npm
   href:   "https://www.npmjs.com/"
@@ -380,6 +386,12 @@
   id:     artifactory
   name:   Artifactory
   href:   "https://www.jfrog.com/artifactory/"
+  type:   package_managers
+  group:  devops
+-
+  id:     nexus
+  name:   Nexus
+  href:   "https://www.sonatype.com/nexus-repository-software-component-management"
   type:   package_managers
   group:  devops
 -
