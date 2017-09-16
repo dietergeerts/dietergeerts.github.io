@@ -1,4 +1,9 @@
 -
+  month: "2017-09"
+  projects:
+    - new_project
+    - fabricator_builder_next
+-
   month: "2017-08"
   projects:
     - new_project
