@@ -1,0 +1,11 @@
+<style>
+  .skill {
+    
+  }
+</style>
+<h1>Skills</h1>
+<div style="display: flex; flex-wrap: wrap;">
+  {% for skill in site.data.skills %}
+  <span class="skill">{{ skill }}</span>
+  {% endfor %}
+</div>
