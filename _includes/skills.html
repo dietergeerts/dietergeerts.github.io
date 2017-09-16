@@ -1,10 +1,17 @@
 <style>
   .skill {
-
+    background: #f7f3e7;
+    color: #31373a;
+    padding: 8px;
+    line-height: 1;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #f0db4f;
   }
 </style>
+<hr/>
 <h1>Skills</h1>
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   {% for skill in site.data.skills %}
   <span class="skill">{{ skill }}</span>
   {% endfor %}
