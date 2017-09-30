@@ -5,17 +5,29 @@
 
   .profiles > * {
     position: absolute;
-    top: -7em;
+    top: -6em;
   }
 
   .profiles > *:last-child {
     right: 0;
   }
+
+  @media (min-width: 42em) {
+    .profiles > * {
+      top: -6.5em;
+    }
+  }
+
+  @media (min-width: 64em) {
+    .profiles > * {
+      top: -7em;
+    }
+  }
 </style>
 
 <div class="profiles">
   <a href="www.linkedin.com/in/dieteratwork" target="_blank">
-    <img src="/assets/img/linkedin.png" width="48" height="48"
+    <img src="/assets/img/linkedin.png" width="32" height="32"
          style="display: block; margin: 0 10px;">
   </a>
 </div>
