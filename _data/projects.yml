@@ -102,6 +102,7 @@
     - javascript
     - css_3
     - nodejs
+    - meteor
     - bootstrap
     - angular_ui
     - rxjs
@@ -109,6 +110,7 @@
     - momentjs
     - handlebars
     - mongodb
+    - twilio
     - jsdoc
     - wallaby
     - babel

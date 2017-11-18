@@ -77,6 +77,12 @@
   type:   frameworks
   group:  application_and_data
 -
+  id:     meteor
+  name:   Meteor
+  href:   "https://www.meteor.com/"
+  type:   frameworks
+  group:  application_and_data
+-
   id:     bootstrap
   name:   Bootstrap
   href:   "http://getbootstrap.com/"
@@ -214,6 +220,12 @@
   href:   "https://www.mysql.com/"
   type:   databases
   group:  application_and_data
+-
+  id:     twilio
+  name:   Twilio
+  href:   "https://www.twilio.com/video"
+  type:   communications
+  group:  utilities
 -
   id:     fabricator_builder
   name:   Fabricator Builder

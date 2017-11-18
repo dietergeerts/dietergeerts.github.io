@@ -12,6 +12,7 @@
   id:   utilities
   name: Utilities
   types:
+    - communications
     - static_site_generator
     - code_documentation
 -
