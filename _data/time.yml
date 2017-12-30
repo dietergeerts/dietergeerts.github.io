@@ -1,4 +1,12 @@
 -
+  month: "2017-12"
+  projects:
+    - new_project
+-
+  month: "2017-11"
+  projects:
+    - new_project
+-
   month: "2017-10"
   projects:
     - new_project
