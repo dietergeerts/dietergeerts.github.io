@@ -1,4 +1,44 @@
 -
+  id:   serializr_fp
+  name: Serializr-FP
+  role: Owner && Lead Software Engineer
+  sites: 
+    - "https://github.com/dietergeerts/serializr-fp"
+  portfolio: []
+  description: |
+    An open-source library to (de)serialize complex object graphs.
+    
+    A FE application needs data, and this is often done through requests that
+    work with JSON data. Converting this data to/from our JS object can be done
+    easily with plain JS, but if you have a lot of these converters, it becomes
+    hard to keep consistency and have the code readable. I searched for a lot
+    of solutions out there, and only 2 where good, sadly the are geared to the
+    use of classes, which isn't done in functional programming. So serializr-fp
+    was born to fill the gap.
+  core_tools:
+    - javascript
+    - npm
+    - intellij_idea
+  tools:
+    - nodejs
+    - lodash
+    - jsdoc
+    - wallaby
+    - babel
+    - editorconfig
+    - mocha
+    - must
+    - sinon
+    - git
+    - github
+    - eslint
+    - istanbul
+    - codecov
+    - code_climate
+    - codacy
+    - david_dm
+    - travic_ci
+-
   id:   fabricator_builder_next
   name: Fabricator Builder Next
   role: Owner && Lead Software Engineer
@@ -117,6 +157,7 @@
     - editorconfig
     - webpack
     - mocha
+    - must
     - chai
     - sinon
     - protractor

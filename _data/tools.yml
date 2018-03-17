@@ -323,6 +323,12 @@
   type:   testing_tools
   group:  devops
 -
+  id:     must
+  name:   Must.js
+  href:   "https://github.com/moll/js-must"
+  type:   testing_tools
+  group:  devops
+-
   id:     chai
   name:   Chai
   href:   "http://chaijs.com/"
@@ -431,6 +437,12 @@
   type:   code_quality_tools
   group:  devops
 -
+  id:     codecov
+  name:   Codecov
+  href:   "https://codecov.io/"
+  type:   code_quality_tools
+  group:  devops
+-
   id:     coveralls
   name:   Coveralls
   href:   "https://coveralls.io/"
@@ -440,6 +452,12 @@
   id:     code_climate
   name:   Code Climate
   href:   "https://codeclimate.com/"
+  type:   code_quality_tools
+  group:  devops
+-
+  id:     codacy
+  name:   Codacy
+  href:   "https://www.codacy.com/"
   type:   code_quality_tools
   group:  devops
 -

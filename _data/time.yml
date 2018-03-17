@@ -1,4 +1,18 @@
 -
+  month: "2018-03"
+  projects:
+    - new_project
+    - serializr_fp
+-
+  month: "2018-02"
+  projects:
+    - new_project
+    - serializr_fp
+-
+  month: "2018-01"
+  projects:
+    - new_project
+-
   month: "2017-12"
   projects:
     - new_project
@@ -123,31 +137,19 @@
   projects:
     - qlik_demonstrator
     - codex_veb_interface
-    - dworks
--
-  month: "2015-11"
-  projects:
-    - codex_veb_interface
-    - dworks
 -
   month: "2015-10"
   projects:
     - codex_veb_interface
     - hospindex_data_provider_module
-    - fabricator_builder
-    - dworks
 -
   month: "2015-09"
   projects:
     - hospindex_data_provider_module
-    - fabricator_builder
-    - dworks
 -
   month: "2015-08"
   projects:
     - myhealthbox
-    - fabricator_builder
-    - dworks
 -
   month: "2015-07"
   projects:
