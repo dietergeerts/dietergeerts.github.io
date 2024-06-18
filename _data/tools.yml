@@ -82,37 +82,37 @@
   id:     python
   name:   Python
   href:   "https://www.python.org/"
-  group:  secondary
+  group:  
 -
   id:     c_sharp
   name:   "C#"
   href:   "https://docs.microsoft.com/en-us/dotnet/csharp/csharp"
-  group:  secondary
+  group:  
 -
   id:     java
   name:   Java
   href:   "https://www.java.com/en/"
-  group:  secondary
+  group:  
 -
   id:     angularjs
   name:   AngularJS
   href:   "https://angularjs.org/"
-  group:  secondary
+  group:  
 -
   id:     asp_net
   name:   ASP.NET
   href:   "https://www.asp.net/"
-  group:  secondary
+  group:  
 -
   id:     silverlight
   name:   Silverlight
   href:   "https://www.microsoft.com/silverlight/"
-  group:  secondary
+  group:  
 -
   id:     spring
   name:   Spring
   href:   "https://spring.io/"
-  group:  secondary
+  group:  
 -
   id:     angular_ui
   name:   UI Bootstrap
@@ -132,42 +132,42 @@
   id:     handlebars
   name:   Handlebars
   href:   "http://handlebarsjs.com/"
-  group:  secondary
+  group:  
 -
   id:     jade
   name:   Jade/Pug
   href:   "https://pugjs.org/api/getting-started.html"
-  group:  secondary
+  group:  
 -
   id:     thymeleaf
   name:   Thymeleaf
   href:   "http://www.thymeleaf.org/"
-  group:  secondary
+  group:  
 -
   id:     mongodb
   name:   MongoDB
   href:   "https://www.mongodb.com/"
-  group:  secondary
+  group:  
 -
   id:     postgresql
   name:   PostgreSql
   href:   "https://www.postgresql.org/"
-  group:  secondary
+  group:  
 -
   id:     sql_server
   name:   SQL Server
   href:   "https://www.microsoft.com/en-us/sql-server/default.aspx"
-  group:  secondary
+  group:  
 -
   id:     mysql
   name:   MySQL
   href:   "https://www.mysql.com/"
-  group:  secondary
+  group:  
 -
   id:     twilio
   name:   Twilio
   href:   "https://www.twilio.com/video"
-  group:  secondary
+  group:  
 -
   id:     fabricator_builder
   name:   Fabricator Builder
@@ -192,7 +192,7 @@
   id:     vectorworks
   name:   Vectorworks
   href:   "http://www.vectorworks.be/"
-  group:  secondary
+  group:  
 -
   id:     jira
   name:   JIRA
@@ -212,7 +212,7 @@
   id:     drupal
   name:   Drupal
   href:   "https://www.drupal.org/"
-  group:  secondary
+  group:  
 -
   id:     qlik_sense
   name:   Qlik Sense

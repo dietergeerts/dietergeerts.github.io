@@ -1,18 +1,12 @@
 <hr/>
 
-<h1>Tools used</h1>
+<h1>Tools</h1>
 
-{% assign primaryToolIds = "" | split: "" %}
-{% assign secondaryToolIds = "" | split: "" %}
+{% assign toolIds = "" | split: "" %}
 {% for tool in site.data.tools %}
 {% if tool.group == "primary" %}
-{% assign primaryToolIds = primaryToolIds | push: tool.id %}
-{% endif %}
-{% if tool.group == "secondary" %}
-{% assign secondaryToolIds = secondaryToolIds | push: tool.id %}
+{% assign toolIds = toolIds | push: tool.id %}
 {% endif %}
 {% endfor %}
 
-{% include tools_grid.html toolIds=primaryToolIds size="64" %}
-
-{% include tools_grid.html toolIds=secondaryToolIds size="48" %}
+{% include tools_grid.html toolIds=toolIds size="64" %}
