@@ -19,6 +19,21 @@
   href:   "http://www.php.net/"
   group:  primary
 -
+  id:     laravel
+  name:   Laravel
+  href:   "http://www.laravel.com/"
+  group:  primary
+-
+  id:     vue
+  name:   Vue
+  href:   "https://vuejs.org/"
+  group:  primary
+-
+  id:     react
+  name:   React
+  href:   "https://react.dev/"
+  group:  primary
+-
   id:     angular
   name:   Angular
   href:   "https://angular.io/"
@@ -27,6 +42,11 @@
   id:     rxjs
   name:   RxJS
   href:   "http://reactivex.io/rxjs/"
+  group:  primary
+-
+  id:     fhir
+  name:   FHIR
+  href:   "https://www.hl7.org/fhir/"
   group:  primary
 -
   id:     webpack
