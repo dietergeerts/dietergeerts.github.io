@@ -71,27 +71,9 @@
   type:   frameworks
   group:  application_and_data
 -
-  id:     ui_router
-  name:   UI-Router
-  href:   "https://ui-router.github.io/"
-  type:   frameworks
-  group:  application_and_data
--
-  id:     meteor
-  name:   Meteor
-  href:   "https://www.meteor.com/"
-  type:   frameworks
-  group:  application_and_data
--
   id:     bootstrap
   name:   Bootstrap
   href:   "http://getbootstrap.com/"
-  type:   frameworks
-  group:  application_and_data
--
-  id:     neat
-  name:   Neat
-  href:   "http://neat.bourbon.io/"
   type:   frameworks
   group:  application_and_data
 -
@@ -125,12 +107,6 @@
   type:   components
   group:  application_and_data
 -
-  id:     refills
-  name:   Refills
-  href:   "http://refills.bourbon.io/"
-  type:   components
-  group:  application_and_data
--
   id:     telerik
   name:   Telerik UI
   href:   "http://www.telerik.com/aspnet-mvc"
@@ -143,36 +119,6 @@
   type:   libraries
   group:  application_and_data
 -
-  id:     lodash
-  name:   Lodash
-  href:   "https://lodash.com/"
-  type:   libraries
-  group:  application_and_data
--
-  id:     momentjs
-  name:   Moment.js
-  href:   "http://momentjs.com/"
-  type:   libraries
-  group:  application_and_data
--
-  id:     font_awesome
-  name:   Font Awesome
-  href:   "http://fontawesome.io/"
-  type:   libraries
-  group:  application_and_data
--
-  id:     bourbon
-  name:   Bourbon
-  href:   "http://bourbon.io/"
-  type:   libraries
-  group:  application_and_data
--
-  id:     bitters
-  name:   Bitters
-  href:   "http://bitters.bourbon.io/"
-  type:   libraries
-  group:  application_and_data
--
   id:     handlebars
   name:   Handlebars
   href:   "http://handlebarsjs.com/"
@@ -182,12 +128,6 @@
   id:     jade
   name:   Jade/Pug
   href:   "https://pugjs.org/api/getting-started.html"
-  type:   templating
-  group:  application_and_data
--
-  id:     xaml
-  name:   XAML
-  href:   "https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language"
   type:   templating
   group:  application_and_data
 -
@@ -233,71 +173,11 @@
   type:   static_href_generator
   group:  utilities
 -
-  id:     jekyll
-  name:   Jekyll
-  href:   "http://jekyllrb.com/"
-  type:   static_href_generator
-  group:  utilities
--
   id:     metalsmith
   name:   Metalsmith
   href:   "http://www.metalsmith.io/"
   type:   static_href_generator
   group:  utilities
--
-  id:     jsdoc
-  name:   jsdoc
-  href:   http://usejsdoc.org/
-  type:   code_documentation
-  group:  utilities
--
-  id:     intellij_idea
-  name:   IntelliJ IDEA
-  href:   "http://www.jetbrains.com/idea/"
-  type:   ide
-  group:  devops
--
-  id:     visual_studio
-  name:   Visual Studio
-  href:   "https://www.visualstudio.com/"
-  type:   ide
-  group:  devops
--
-  id:     eclipse
-  name:   Eclipse
-  href:   "https://www.eclipse.org/"
-  type:   ide
-  group:  devops
--
-  id:     resharper
-  name:   ReSharper
-  href:   "https://www.jetbrains.com/resharper/"
-  type:   ide_extensions
-  group:  devops
--
-  id:     wallaby
-  name:   Wallaby.js
-  href:   "https://wallabyjs.com/"
-  type:   ide_extensions
-  group:  devops
--
-  id:     babel
-  name:   Babel
-  href:   "http://babeljs.io/"
-  type:   dev_tools
-  group:  devops
--
-  id:     editorconfig
-  name:   EditorConfig
-  href:   "http://editorconfig.org/"
-  type:   dev_tools
-  group:  devops
--
-  id:     browsersync
-  name:   BrowserSync
-  href:   "https://browsersync.io/"
-  type:   dev_tools
-  group:  devops
 -
   id:     webpack
   name:   Webpack
@@ -311,191 +191,11 @@
   type:   build_tools
   group:  devops
 -
-  id:     gradle
-  name:   Gradle
-  href:   "https://gradle.org/"
-  type:   build_tools
-  group:  devops
--
-  id:     mocha
-  name:   Mocha
-  href:   "http://mochajs.org/"
-  type:   testing_tools
-  group:  devops
--
-  id:     must
-  name:   Must.js
-  href:   "https://github.com/moll/js-must"
-  type:   testing_tools
-  group:  devops
--
-  id:     chai
-  name:   Chai
-  href:   "http://chaijs.com/"
-  type:   testing_tools
-  group:  devops
--
-  id:     sinon
-  name:   Sinon.JS
-  href:   "http://sinonjs.org/"
-  type:   testing_tools
-  group:  devops
--
-  id:     protractor
-  name:   Protractor
-  href:   "http://www.protractortest.org/#/"
-  type:   testing_tools
-  group:  devops
--
-  id:     karma
-  name:   Karma
-  href:   "http://karma-runner.github.io/1.0/index.html"
-  type:   testing_tools
-  group:  devops
--
-  id:     jasmine
-  name:   Jasmine
-  href:   "https://jasmine.github.io/"
-  type:   testing_tools
-  group:  devops
--
-  id:     git
-  name:   Git
-  href:   "https://git-scm.com/"
-  type:   version_control
-  group:  devops
--
-  id:     github
-  name:   GitHub
-  href:   "https://github.com/"
-  type:   version_control
-  group:  devops
--
-  id:     stash
-  name:   Bitbucket
-  href:   "https://bitbucket.org/"
-  type:   version_control
-  group:  devops
--
-  id:     subversion
-  name:   SVN (Subversion)
-  href:   "http://subversion.apache.org/"
-  type:   version_control
-  group:  devops
--
-  id:     mercurial
-  name:   Mercurial
-  href:   "https://www.mercurial-scm.org/"
-  type:   version_control
-  group:  devops
--
   id:     npm
   name:   npm
   href:   "https://www.npmjs.com/"
   type:   package_managers
   group:  devops
--
-  id:     bower
-  name:   Bower
-  href:   "https://bower.io/"
-  type:   package_managers
-  group:  devops
--
-  id:     artifactory
-  name:   Artifactory
-  href:   "https://www.jfrog.com/artifactory/"
-  type:   package_managers
-  group:  devops
--
-  id:     nexus
-  name:   Nexus
-  href:   "https://www.sonatype.com/nexus-repository-software-component-management"
-  type:   package_managers
-  group:  devops
--
-  id:     nuget
-  name:   NuGet
-  href:   "https://www.nuget.org/"
-  type:   package_managers
-  group:  devops
--
-  id:     eslint
-  name:   ESLint
-  href:   "http://eslint.org/"
-  type:   code_quality_tools
-  group:  devops
--
-  id:     tslint
-  name:   TSLint
-  href:   "https://palantir.github.io/tslint/"
-  type:   code_quality_tools
-  group:  devops
--
-  id:     istanbul
-  name:   Istanbul
-  href:   "https://istanbul.js.org/"
-  type:   code_quality_tools
-  group:  devops
--
-  id:     codecov
-  name:   Codecov
-  href:   "https://codecov.io/"
-  type:   code_quality_tools
-  group:  devops
--
-  id:     coveralls
-  name:   Coveralls
-  href:   "https://coveralls.io/"
-  type:   code_quality_tools
-  group:  devops
--
-  id:     code_climate
-  name:   Code Climate
-  href:   "https://codeclimate.com/"
-  type:   code_quality_tools
-  group:  devops
--
-  id:     codacy
-  name:   Codacy
-  href:   "https://www.codacy.com/"
-  type:   code_quality_tools
-  group:  devops
--
-  id:     david_dm
-  name:   David DM
-  href:   "https://david-dm.org/"
-  type:   code_quality_tools
-  group:  devops
--
-  id:     travic_ci
-  name:   Travis CI
-  href:   "https://travis-ci.com/"
-  type:   continuous_integration
-  group:  devops
--
-  id:     jenkins
-  name:   Jenkins
-  href:   "http://jenkins-ci.org/"
-  type:   continuous_integration
-  group:  devops
--
-  id:     adobe_xd
-  name:   Adobe XD CC
-  href:   "http://www.adobe.com/uk/products/experience-design.html"
-  type:   design
-  group:  business_tools
--
-  id:     paint_net
-  name:   Paint.NET
-  href:   "https://www.getpaint.net/"
-  type:   design
-  group:  business_tools
--
-  id:     inkscape
-  name:   INKSCAPE
-  href:   "https://inkscape.org/en/"
-  type:   design
-  group:  business_tools
 -
   id:     vectorworks
   name:   Vectorworks
@@ -512,12 +212,6 @@
   id:     confluence
   name:   Confluence
   href:   "https://www.atlassian.com/software/confluence"
-  type:   collaboration
-  group:  business_tools
--
-  id:     slack
-  name:   Slack
-  href:   "https://slack.com/"
   type:   collaboration
   group:  business_tools
 -

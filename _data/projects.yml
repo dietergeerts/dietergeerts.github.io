@@ -18,26 +18,8 @@
   core_tools:
     - javascript
     - npm
-    - intellij_idea
   tools:
     - nodejs
-    - lodash
-    - jsdoc
-    - wallaby
-    - babel
-    - editorconfig
-    - mocha
-    - must
-    - sinon
-    - git
-    - github
-    - eslint
-    - istanbul
-    - codecov
-    - code_climate
-    - codacy
-    - david_dm
-    - travic_ci
 -
   id:   fabricator_builder_next
   name: Fabricator Builder Next
@@ -61,27 +43,11 @@
     - html_5
     - sass
     - webpack
-    - intellij_idea
   tools:
     - javascript
     - css_3
-    - lodash
     - handlebars
-    - babel
-    - editorconfig
-    - wallaby
-    - mocha
-    - chai
-    - sinon
-    - git
-    - github
     - npm
-    - eslint
-    - istanbul
-    - coveralls
-    - code_climate
-    - david_dm
-    - travic_ci
 -
   id:   fabricator_builder
   name: Fabricator Builder
@@ -102,21 +68,12 @@
     - html_5
     - sass
     - handlebars
-    - intellij_idea
     - gulp
   tools:
     - css_3
     - nodejs
-    - lodash
-    - editorconfig
-    - browsersync
     - webpack
-    - git
-    - github
     - npm
-    - eslint
-    - david_dm
-    - travic_ci
 -
   id:   new_project
   name: New Healthcare related project
@@ -135,41 +92,19 @@
     - html_5
     - sass
     - angularjs
-    - ui_router
     - fabricator_builder
-    - intellij_idea
   tools:
     - javascript
     - css_3
     - nodejs
-    - meteor
     - bootstrap
     - angular_ui
     - rxjs
-    - lodash
-    - momentjs
     - handlebars
     - mongodb
     - twilio
-    - jsdoc
-    - wallaby
-    - babel
-    - editorconfig
     - webpack
-    - mocha
-    - must
-    - chai
-    - sinon
-    - protractor
-    - karma
-    - jasmine
-    - git
-    - stash
     - npm
-    - artifactory
-    - eslint
-    - istanbul
-    - jenkins
     - jira
     - confluence
 -
@@ -205,7 +140,6 @@
     - html_5
     - sass
     - angular
-    - intellij_idea
   tools:
     - javascript
     - css_3
@@ -213,24 +147,12 @@
     - bootstrap
     - ng_bootstrap
     - rxjs
-    - lodash
-    - momentjs
-    - font_awesome
     - mongodb
-    - babel
-    - editorconfig
     - webpack
     - gulp
-    - git
-    - stash
     - npm
-    - artifactory
-    - tslint
-    - adobe_xd
-    - paint_net
     - jira
     - confluence
-    - slack
 -
   id:   myhealthbox_gp_portal
   name: myHealthbox GP portal
@@ -257,23 +179,17 @@
     - html_5
     - sass
     - angularjs
-    - ui_router
-    - intellij_idea
   tools:
     - javascript
     - css_3
     - nodejs
     - bootstrap
     - angular_ui
-    - font_awesome
     - postgresql
     - gulp
-    - git
-    - stash
     - npm
     - jira
     - confluence
-    - slack
 -
   id:   myhealthbox_prototyping_2
   name: myHealthbox prototyping
@@ -291,20 +207,12 @@
     - html_5
     - sass
     - fabricator_builder
-    - intellij_idea
   tools:
     - css_3
     - nodejs
-    - font_awesome
     - handlebars
-    - browsersync
     - gulp
-    - git
-    - stash
     - npm
-    - artifactory
-    - paint_net
-    - inkscape
 -
   id:   schoolonline_planner_module
   name: Schoolonline planner module
@@ -335,29 +243,20 @@
     - html_5
     - sass
     - angularjs
-    - ui_router
     - fabricator_builder
-    - intellij_idea
   tools:
     - javascript
     - css_3
     - nodejs
     - bootstrap
     - angular_ui
-    - lodash
-    - momentjs
-    - font_awesome
     - handlebars
     - jade
     - mongodb
-    - browsersync
     - gulp
-    - git
-    - stash
     - npm
     - jira
     - confluence
-    - slack
 -
   id:   planon_data_migration
   name: Planon data migration
@@ -409,17 +308,13 @@
     - html_5
     - sass
     - angularjs
-    - intellij_idea
     - qlik_sense
   tools:
     - javascript
     - css_3
     - nodejs
     - bootstrap
-    - font_awesome
     - gulp
-    - git
-    - stash
     - npm
 -
   id:   codex_veb_interface
@@ -445,15 +340,10 @@
     - c_sharp
     - bootstrap
     - asp_net
-    - visual_studio
   tools:
     - javascript
     - css_3
     - sql_server
-    - resharper
-    - git
-    - stash
-    - nuget
     - jira
     - confluence
 -
@@ -477,7 +367,6 @@
     - angularjs
     - bootstrap
     - asp_net
-    - visual_studio
   tools:
     - javascript
     - css_3
@@ -485,12 +374,8 @@
     - nodejs
     - angular_ui
     - sql_server
-    - resharper
     - gulp
-    - git
-    - stash
     - npm
-    - nuget
     - jira
     - confluence
 -
@@ -534,28 +419,16 @@
     - java
     - angularjs
     - fabricator_builder
-    - intellij_idea
   tools:
     - javascript
     - css_3
     - nodejs
-    - neat
     - spring
-    - refills
-    - bourbon
-    - bitters
     - handlebars
     - thymeleaf
     - postgresql
-    - browsersync
     - gulp
-    - gradle
-    - git
-    - stash
     - npm
-    - bower
-    - paint_net
-    - inkscape
     - jira
     - confluence
 -
@@ -576,7 +449,6 @@
   core_tools: 
     - powerpoint
     - confluence
-    - paint_net
   tools: []
 -
   id:   myhealthbox_prototyping
@@ -600,13 +472,9 @@
     - sass
     - jade
     - metalsmith
-    - intellij_idea
   tools:
     - css_3
-    - browsersync
     - gulp
-    - git
-    - stash
     - nodejs
 -
   id:   marketing_websites_prototyping
@@ -629,13 +497,10 @@
     - html_5
     - sass
     - php
-    - intellij_idea
     - drupal
   tools:
     - css_3
     - mysql
-    - git
-    - stash
     - paint_net   
 -
   id:   studysteps
@@ -667,7 +532,6 @@
     - html_5
     - sass
     - angularjs
-    - intellij_idea
     - dotcms
   tools:
     - javascript
@@ -675,10 +539,6 @@
     - java
     - spring
     - postgresql
-    - gradle
-    - git
-    - stash
-    - nexus
     - jira
     - confluence   
 -
@@ -703,14 +563,7 @@
     - c_sharp
     - silverlight
     - telerik
-    - visual_studio
   tools:
-    - xaml
-    - resharper
-    - stash
-    - subversion
-    - nuget
-    - nexus
     - jira
     - confluence
 -
@@ -759,18 +612,12 @@
     love helping others, and being helped when needed.
   core_tools:
     - python
-    - intellij_idea
     - vectorworks
     - confluence
   tools:
     - nodejs
-    - editorconfig
     - gulp
-    - git
-    - github
-    - stash
     - npm
-    - paint_net
     - jira
 -
   id:   thesis_software_engineer
@@ -810,9 +657,6 @@
     - c_sharp
     - php
     - silverlight
-    - xaml
-    - visual_studio
     - vectorworks
   tools: 
     - mysql
-    - mercurial
