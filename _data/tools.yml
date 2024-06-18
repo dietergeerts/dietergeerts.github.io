@@ -2,239 +2,199 @@
   id:     javascript
   name:   JavaScript
   href:   "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-  type:   languages
-  group:  application_and_data
+  group:  primary
 -
   id:     typescript
   name:   TypeScript
   href:   "http://www.typescriptlang.org/"
-  type:   languages
-  group:  application_and_data
+  group:  primary
 -
   id:     html_5
   name:   HTML5
   href:   "https://www.w3.org/TR/html5/"
-  type:   languages
-  group:  application_and_data
+  group:  primary
 -
   id:     css_3
   name:   CSS3
   href:   "https://www.w3.org/Style/CSS/"
-  type:   languages
-  group:  application_and_data
+  group:  primary
 -
   id:     sass
   name:   Sass
   href:   "http://sass-lang.com/"
-  type:   languages
-  group:  application_and_data
+  group:  primary
 -
   id:     python
   name:   Python
   href:   "https://www.python.org/"
-  type:   languages
-  group:  application_and_data
+  group:  secondary
 -
   id:     c_sharp
   name:   "C#"
   href:   "https://docs.microsoft.com/en-us/dotnet/csharp/csharp"
-  type:   languages
-  group:  application_and_data
+  group:  secondary
 -
   id:     java
   name:   Java
   href:   "https://www.java.com/en/"
-  type:   languages
-  group:  application_and_data
+  group:  secondary
 -
   id:     php
   name:   PHP
   href:   "http://www.php.net/"
-  type:   languages
-  group:  application_and_data
+  group:  primary
 -
   id:     nodejs
   name:   Node.js
   href:   "https://nodejs.org/en/"
-  type:   frameworks
-  group:  application_and_data
+  group:  primary
 -
   id:     angularjs
   name:   AngularJS
   href:   "https://angularjs.org/"
-  type:   frameworks
-  group:  application_and_data
+  group:  secondary
 -
   id:     angular
   name:   Angular
   href:   "https://angular.io/"
-  type:   frameworks
-  group:  application_and_data
+  group:  primary
 -
   id:     bootstrap
   name:   Bootstrap
   href:   "http://getbootstrap.com/"
-  type:   frameworks
-  group:  application_and_data
+  group:  primary
 -
   id:     asp_net
   name:   ASP.NET
   href:   "https://www.asp.net/"
-  type:   frameworks
-  group:  application_and_data
+  group:  secondary
 -
   id:     silverlight
   name:   Silverlight
   href:   "https://www.microsoft.com/silverlight/"
-  type:   frameworks
-  group:  application_and_data
+  group:  secondary
 -
   id:     spring
   name:   Spring
   href:   "https://spring.io/"
-  type:   frameworks
-  group:  application_and_data
+  group:  secondary
 -
   id:     angular_ui
   name:   UI Bootstrap
   href:   "https://angular-ui.github.io/bootstrap/"
-  type:   components
-  group:  application_and_data
+  group:  
 -
   id:     ng_bootstrap
   name:   ng-bootstrap
   href:   "https://ng-bootstrap.github.io/#/home"
-  type:   components
-  group:  application_and_data
+  group:  
 -
   id:     telerik
   name:   Telerik UI
   href:   "http://www.telerik.com/aspnet-mvc"
-  type:   components
-  group:  application_and_data
+  group:  
 -
   id:     rxjs
   name:   RxJS
   href:   "http://reactivex.io/rxjs/"
-  type:   libraries
-  group:  application_and_data
+  group:  primary
 -
   id:     handlebars
   name:   Handlebars
   href:   "http://handlebarsjs.com/"
-  type:   templating
-  group:  application_and_data
+  group:  secondary
 -
   id:     jade
   name:   Jade/Pug
   href:   "https://pugjs.org/api/getting-started.html"
-  type:   templating
-  group:  application_and_data
+  group:  secondary
 -
   id:     thymeleaf
   name:   Thymeleaf
   href:   "http://www.thymeleaf.org/"
-  type:   templating
-  group:  application_and_data
+  group:  secondary
 -
   id:     mongodb
   name:   MongoDB
   href:   "https://www.mongodb.com/"
-  type:   databases
-  group:  application_and_data
+  group:  secondary
 -
   id:     postgresql
   name:   PostgreSql
   href:   "https://www.postgresql.org/"
-  type:   databases
-  group:  application_and_data
+  group:  secondary
 -
   id:     sql_server
   name:   SQL Server
   href:   "https://www.microsoft.com/en-us/sql-server/default.aspx"
-  type:   databases
-  group:  application_and_data
+  group:  secondary
 -
   id:     mysql
   name:   MySQL
   href:   "https://www.mysql.com/"
-  type:   databases
-  group:  application_and_data
+  group:  secondary
 -
   id:     twilio
   name:   Twilio
   href:   "https://www.twilio.com/video"
-  type:   communications
-  group:  utilities
+  group:  secondary
 -
   id:     fabricator_builder
   name:   Fabricator Builder
   href:   "https://github.com/dietergeerts/fabricator-builder"
-  type:   static_href_generator
-  group:  utilities
+  group:  
 -
   id:     metalsmith
   name:   Metalsmith
   href:   "http://www.metalsmith.io/"
-  type:   static_href_generator
-  group:  utilities
+  group:  
 -
   id:     webpack
   name:   Webpack
   href:   "https://webpack.js.org/"
-  type:   build_tools
-  group:  devops
+  group:  secondary
 -
   id:     gulp
   name:   Gulp
   href:   "http://gulpjs.com/"
-  type:   build_tools
-  group:  devops
+  group:  
 -
   id:     npm
   name:   npm
   href:   "https://www.npmjs.com/"
-  type:   package_managers
-  group:  devops
+  group:  
 -
   id:     vectorworks
   name:   Vectorworks
   href:   "http://www.vectorworks.be/"
-  type:   design
-  group:  business_tools
+  group:  secondary
 -
   id:     jira
   name:   JIRA
   href:   "https://www.atlassian.com/software/jira"
-  type:   collaboration
-  group:  business_tools
+  group:  
 -
   id:     confluence
   name:   Confluence
   href:   "https://www.atlassian.com/software/confluence"
-  type:   collaboration
-  group:  business_tools
+  group:  
 -
   id:     powerpoint
   name:   PowerPoint
   href:   "https://products.office.com/en-US/?omkt=en-US"
-  type:   collaboration
-  group:  business_tools
+  group:  
 -
   id:     drupal
   name:   Drupal
   href:   "https://www.drupal.org/"
-  type:   other
-  group:  business_tools
+  group:  secondary
 -
   id:     qlik_sense
   name:   Qlik Sense
   href:   "http://www.qlik.com/en-gb/products/qlik-sense"
-  type:   other
-  group:  business_tools
+  group:  
 -
   id:     dotcms
   name:   dotCMS
   href:   "https://dotcms.com/"
-  type:   other
-  group:  business_tools
+  group:  

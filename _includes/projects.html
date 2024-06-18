@@ -59,9 +59,9 @@
 
 <p>{{ project.description | markdownify }}</p>
 
-{% include tools.html toolIds=project.core_tools size="64" %}
+{% include tools_grid.html toolIds=project.core_tools size="64" %}
 
-{% include tools.html toolIds=project.tools size="48" %}
+{% include tools_grid.html toolIds=project.tools size="48" %}
 
 {% endunless %}
 {% endfor %}

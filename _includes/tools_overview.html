@@ -1,0 +1,18 @@
+<hr/>
+
+<h1>Tools used</h1>
+
+{% for tool in site.data.tools %}
+{% if tool.group == "primary" %}
+{% assign primaryToolIds = primaryToolIds | push: tool.id %}
+{% endif %}
+{% if tool.group == "secondary" %}
+{% assign secondaryToolIds = secondaryToolIds | push: tool.id %}
+{% endif %}
+{% endfor %}
+
+<fieldset>
+  {% include tools_grid.html toolIds=primaryToolIds size="64" %}
+</fieldset>
+
+{% include tools_grid.html toolIds=secondaryToolIds size="48" %}
