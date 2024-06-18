@@ -45,7 +45,7 @@
   group:  primary
 -
   id:     fhir
-  name:   FHIR
+  name:   HL7 FHIR
   href:   "https://www.hl7.org/fhir/"
   group:  primary
 -
