@@ -9,9 +9,39 @@
   href:   "http://www.typescriptlang.org/"
   group:  primary
 -
-  id:     html_5
-  name:   HTML5
-  href:   "https://www.w3.org/TR/html5/"
+  id:     nodejs
+  name:   Node.js
+  href:   "https://nodejs.org/en/"
+  group:  primary
+-
+  id:     php
+  name:   PHP
+  href:   "http://www.php.net/"
+  group:  primary
+-
+  id:     angular
+  name:   Angular
+  href:   "https://angular.io/"
+  group:  primary
+-
+  id:     rxjs
+  name:   RxJS
+  href:   "http://reactivex.io/rxjs/"
+  group:  primary
+-
+  id:     webpack
+  name:   Webpack
+  href:   "https://webpack.js.org/"
+  group:  primary
+-
+  id:     bootstrap
+  name:   Bootstrap
+  href:   "http://getbootstrap.com/"
+  group:  primary
+-
+  id:     sass
+  name:   Sass
+  href:   "http://sass-lang.com/"
   group:  primary
 -
   id:     css_3
@@ -19,9 +49,9 @@
   href:   "https://www.w3.org/Style/CSS/"
   group:  primary
 -
-  id:     sass
-  name:   Sass
-  href:   "http://sass-lang.com/"
+  id:     html_5
+  name:   HTML5
+  href:   "https://www.w3.org/TR/html5/"
   group:  primary
 -
   id:     python
@@ -39,30 +69,10 @@
   href:   "https://www.java.com/en/"
   group:  secondary
 -
-  id:     php
-  name:   PHP
-  href:   "http://www.php.net/"
-  group:  primary
--
-  id:     nodejs
-  name:   Node.js
-  href:   "https://nodejs.org/en/"
-  group:  primary
--
   id:     angularjs
   name:   AngularJS
   href:   "https://angularjs.org/"
   group:  secondary
--
-  id:     angular
-  name:   Angular
-  href:   "https://angular.io/"
-  group:  primary
--
-  id:     bootstrap
-  name:   Bootstrap
-  href:   "http://getbootstrap.com/"
-  group:  primary
 -
   id:     asp_net
   name:   ASP.NET
@@ -93,11 +103,6 @@
   name:   Telerik UI
   href:   "http://www.telerik.com/aspnet-mvc"
   group:  
--
-  id:     rxjs
-  name:   RxJS
-  href:   "http://reactivex.io/rxjs/"
-  group:  primary
 -
   id:     handlebars
   name:   Handlebars
@@ -148,11 +153,6 @@
   name:   Metalsmith
   href:   "http://www.metalsmith.io/"
   group:  
--
-  id:     webpack
-  name:   Webpack
-  href:   "https://webpack.js.org/"
-  group:  secondary
 -
   id:     gulp
   name:   Gulp

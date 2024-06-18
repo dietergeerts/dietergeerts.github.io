@@ -13,8 +13,6 @@
 {% endif %}
 {% endfor %}
 
-<fieldset>
-  {% include tools_grid.html toolIds=primaryToolIds size="64" %}
-</fieldset>
+{% include tools_grid.html toolIds=primaryToolIds size="64" %}
 
 {% include tools_grid.html toolIds=secondaryToolIds size="48" %}
