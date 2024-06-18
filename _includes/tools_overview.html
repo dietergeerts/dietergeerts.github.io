@@ -2,6 +2,8 @@
 
 <h1>Tools used</h1>
 
+{% assign primaryToolIds = "" | split: "" %}
+{% assign secondaryToolIds = "" | split: "" %}
 {% for tool in site.data.tools %}
 {% if tool.group == "primary" %}
 {% assign primaryToolIds = primaryToolIds | push: tool.id %}
