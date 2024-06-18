@@ -54,6 +54,11 @@
   href:   "https://webpack.js.org/"
   group:  primary
 -
+  id:     storybook
+  name:   Storybook
+  href:   "https://storybook.js.org/"
+  group:  primary
+-
   id:     bootstrap
   name:   Bootstrap
   href:   "http://getbootstrap.com/"
