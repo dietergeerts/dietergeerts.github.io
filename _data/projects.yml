@@ -1,9 +1,47 @@
 -
-  id:   new_project
-  name: New Healthcare related project
+  id:   dermicus
+  name: Dermicus
+  role: Senior Full Stack Web Application Engineer
+  time: January 2023 ... June 2024
+  sites:
+    - "https://dermicus.com/"
+  portfolio: []
+  description: |
+    __TODO__
+  core_tools:
+    - typescript
+    - vue
+    - php
+    - laravel
+    - fhir
+    - mysql
+  tools: []
+-
+  id:   demetra
+  name: Demetra
+  role: Senior Full Stack Web Application Engineer
+  time: April 2021 ... June 2024
+  sites:
+    - "https://www.barco.com/en/support/demetra"
+  portfolio: []
+  description: |
+    __TODO__
+  core_tools:
+    - typescript
+    - react
+    - rxjs
+    - nodejs
+    - mysql
+    - storybook
+  tools: []
+-
+  id:   synergy
+  name: Synergy
   role: Senior UI/UX/FE Web Application Engineer
-  time: May 2017 ... March 2018
-  sites: []
+  time: May 2017 ... March 2021
+  sites:
+    - "https://www.barco.com/en/about/press-releases/2019-02-05-oxford-synergi"
+    - "https://www.barco.com/en/inspiration/news-insights/2020-03-26-virtual-clinical-collaboration-when-it-matters-most"
   portfolio: []
   description: |
     Currently working on a new project in Healthcare, which will be used
@@ -680,3 +718,16 @@
     - vectorworks
   tools: 
     - mysql
+-
+  id:   engineer_in_construction
+  name: Early work for architects
+  role: Designer / CAD Engineer
+  time: December 2006 ... April 2013
+  sites: []
+  portfolio: []
+  description: |
+    __TODO__
+  core_tools:
+    - vectorworks
+    - python
+  tools: []
