@@ -8,7 +8,17 @@
     - "https://dermicus.com/"
   portfolio: []
   description: |
-    __TODO__
+    Dermicus is a platform to help practitioners in treating several conditions
+    like wounds and do their follow-up. It has a mobile part to create the case
+    and take pictures, and a web part to further work on the case. There is AI
+    integration for wound measurements and predicting the diagnosis for moles,
+    all indicative and optional.
+    
+    Implementation-wise, I worked on the web application and cloud backend with
+    integrations like Swedish BankID so patients can login for consent purposes.
+    Modelling-wise I could expand my HL7 FHIR knowledge, particularly on things
+    like questionnaires with population and conditions. Aside from development,
+    I also worked on functional analysis of features, meeting customer's needs.
   tools:
     - typescript
     - vue
@@ -26,7 +36,15 @@
     - "https://www.barco.com/en/support/demetra"
   portfolio: []
   description: |
-    __TODO__
+    Demetra is a platform to help practitioners in treating skin lesions and do
+    their follow-up, including a collaboration feature to get second opinions.
+    It consists of a mobile application to create cases and take photos, and a
+    web application to further follow-up. The mobile part has its own device to
+    enable high res pictures with special features like SPMs. There also is AI
+    integration for wound measurements.
+    
+    I mainly worked on the web application and aws-lambda based cloud backend.
+    Particularly on the collaboration feature, including report generation.
   tools:
     - typescript
     - react
@@ -45,31 +63,26 @@
     - "https://www.barco.com/en/inspiration/news-insights/2020-03-26-virtual-clinical-collaboration-when-it-matters-most"
   portfolio: []
   description: |
-    Currently working on a new project in Healthcare, which will be used
-    globally around the world. I can't tell more about it right now due to a
-    NDA I signed. Stay tuned for more info....
+    Synergy is a tool to prepare and guide Multi Disciplinary Team meetings to
+    discuss and come up with the treatment for cancer cases specifically. Having
+    Oxford University as pilot, there was strong focus on case timings as one of
+    the functionalities. For the actual meetings, there is a mix of a physical
+    meeting room and remote participation possibilities with streaming of the
+    cases with options for the layout/views for each participant.
     
-    I am hired for web application parts, and my focus is mainly on application 
+    I am working on the web application parts, and my focus is mainly on app
     architecture and devOps (testing, bundling, developer experience, ...), 
     while mentoring the junior software engineers.
   tools:
-    - html_5
-    - sass
     - angularjs
     - fabricator_builder
     - javascript
-    - css_3
     - nodejs
     - bootstrap
-    - angular_ui
     - rxjs
-    - handlebars
     - mongodb
     - twilio
     - webpack
-    - npm
-    - jira
-    - confluence
 -
   id:   serializr_fp
   name: Serializr-FP
@@ -90,8 +103,6 @@
     was born to fill the gap.
   tools:
     - javascript
-    - npm
-    - nodejs
 -
   id:   fabricator_builder_next
   name: Fabricator Builder Next
@@ -117,9 +128,7 @@
     - sass
     - webpack
     - javascript
-    - css_3
     - handlebars
-    - npm
 -
   id:   mystaff_application
   name: myStaff application
@@ -155,18 +164,10 @@
     - html_5
     - sass
     - angular
-    - javascript
-    - css_3
-    - nodejs
     - bootstrap
-    - ng_bootstrap
     - rxjs
     - mongodb
     - webpack
-    - gulp
-    - npm
-    - jira
-    - confluence
 -
   id:   fabricator_builder
   name: Fabricator Builder
@@ -189,10 +190,8 @@
     - sass
     - handlebars
     - gulp
-    - css_3
     - nodejs
     - webpack
-    - npm
 -
   id:   myhealthbox_gp_portal
   name: myHealthbox GP portal
@@ -222,15 +221,10 @@
     - sass
     - angularjs
     - javascript
-    - css_3
     - nodejs
     - bootstrap
     - angular_ui
     - postgresql
-    - gulp
-    - npm
-    - jira
-    - confluence
 -
   id:   myhealthbox_prototyping_2
   name: myHealthbox prototyping
@@ -250,11 +244,6 @@
     - html_5
     - sass
     - fabricator_builder
-    - css_3
-    - nodejs
-    - handlebars
-    - gulp
-    - npm
 -
   id:   schoolonline_planner_module
   name: Schoolonline planner module
@@ -289,17 +278,9 @@
     - angularjs
     - fabricator_builder
     - javascript
-    - css_3
-    - nodejs
     - bootstrap
     - angular_ui
-    - handlebars
-    - jade
     - mongodb
-    - gulp
-    - npm
-    - jira
-    - confluence
 -
   id:   dworks
   name: DWorks Vectorworks Plugins
@@ -350,10 +331,6 @@
     - python
     - vectorworks
     - confluence
-    - nodejs
-    - gulp
-    - npm
-    - jira
 -
   id:   planon_data_migration
   name: Planon data migration
@@ -410,11 +387,8 @@
     - angularjs
     - qlik_sense
     - javascript
-    - css_3
-    - nodejs
     - bootstrap
     - gulp
-    - npm
 -
   id:   codex_veb_interface
   name: CODEX VEB interface
@@ -444,8 +418,6 @@
     - javascript
     - css_3
     - sql_server
-    - jira
-    - confluence
 -
   id:   hospindex_data_provider_module
   name: HospIndex data provider module
@@ -470,15 +442,8 @@
     - bootstrap
     - asp_net
     - javascript
-    - css_3
     - sass
-    - nodejs
-    - angular_ui
     - sql_server
-    - gulp
-    - npm
-    - jira
-    - confluence
 -
   id:   myhealthbox
   name: myHealthbox
@@ -523,16 +488,9 @@
     - angularjs
     - fabricator_builder
     - javascript
-    - css_3
-    - nodejs
     - spring
-    - handlebars
     - thymeleaf
     - postgresql
-    - gulp
-    - npm
-    - jira
-    - confluence
 -
   id:   iknow_application_prototyping
   name: iKnow Application Prototyping
@@ -577,9 +535,7 @@
     - sass
     - jade
     - metalsmith
-    - css_3
     - gulp
-    - nodejs
 -
   id:   marketing_websites_prototyping
   name: Marketing Websites Prototyping
@@ -604,7 +560,6 @@
     - sass
     - php
     - drupal
-    - css_3
     - mysql
     - paint_net   
 -
@@ -641,12 +596,9 @@
     - angularjs
     - dotcms
     - javascript
-    - css_3
     - java
     - spring
     - postgresql
-    - jira
-    - confluence   
 -
   id:   bayer_mbip
   name: Bayer Cropscience Application
@@ -671,8 +623,6 @@
     - c_sharp
     - silverlight
     - telerik
-    - jira
-    - confluence
 -
   id:   thesis_software_engineer
   name: Thesis Software Engineer
@@ -720,9 +670,16 @@
   role: Designer / CAD Engineer
   time: December 2006 ... April 2013
   sites: []
-  portfolio: []
+  portfolio:
+    - "https://1drv.ms/f/s!Ao0jlKHtrXDyhIgib3z5FvjtmksWqQ?e=Tg77xr"
   description: |
-    __TODO__
+    I started out as an engineer in construction, mainly working for architects.
+    I worked as a designer of buildings, going from small family homes to apartment
+    buildings, and this in a BIM way, so both 2D and 3D representations were
+    available, as well as all statistics like bill of materials. Besides this
+    design work, I also maintained the CAD application, including writing scripts
+    for automating the process. With this also came teaching and supporting all
+    designers in efficiently working with the software.
   tools:
     - vectorworks
     - python
