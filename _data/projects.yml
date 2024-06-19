@@ -1,7 +1,42 @@
 -
+  id:   new_project
+  name: New Healthcare related project
+  role: Senior UI/UX/FE Web Application Engineer
+  time: May 2017 ... March 2018
+  sites: []
+  portfolio: []
+  description: |
+    Currently working on a new project in Healthcare, which will be used
+    globally around the world. I can't tell more about it right now due to a
+    NDA I signed. Stay tuned for more info....
+    
+    I am hired for web application parts, and my focus is mainly on application 
+    architecture and devOps (testing, bundling, developer experience, ...), 
+    while mentoring the junior software engineers.
+  core_tools:
+    - html_5
+    - sass
+    - angularjs
+    - fabricator_builder
+  tools:
+    - javascript
+    - css_3
+    - nodejs
+    - bootstrap
+    - angular_ui
+    - rxjs
+    - handlebars
+    - mongodb
+    - twilio
+    - webpack
+    - npm
+    - jira
+    - confluence
+-
   id:   serializr_fp
   name: Serializr-FP
   role: Owner && Lead Software Engineer
+  time: February ... March 2018
   sites: 
     - "https://github.com/dietergeerts/serializr-fp"
   portfolio: []
@@ -24,6 +59,7 @@
   id:   fabricator_builder_next
   name: Fabricator Builder Next
   role: Owner && Lead Software Engineer
+  time: May ... September 2017
   sites: 
     - "https://github.com/dietergeerts/fabricator-builder-core"
   portfolio: []
@@ -49,68 +85,10 @@
     - handlebars
     - npm
 -
-  id:   fabricator_builder
-  name: Fabricator Builder
-  role: Owner && Lead Software Engineer
-  sites: 
-    - "https://github.com/dietergeerts/fabricator-builder"
-  portfolio: []
-  description: |
-    Fabricator Builder is a 'build' tool for creating toolkits. These toolkits
-    can help speed up development and be used as styleguide and documentation.
-    You can also use such tookits in different projects that needs the same
-    styling and frameworks. Think of a toolkit as a small personal bootstrap.
-
-    More info can be found on the
-    [wiki](https://github.com/dietergeerts/fabricator-builder/wiki) page.
-  core_tools:
-    - javascript
-    - html_5
-    - sass
-    - handlebars
-    - gulp
-  tools:
-    - css_3
-    - nodejs
-    - webpack
-    - npm
--
-  id:   new_project
-  name: New Healthcare related project
-  role: Senior UI/UX/FE Web Application Engineer
-  sites: []
-  portfolio: []
-  description: |
-    Currently working on a new project in Healthcare, which will be used
-    globally around the world. I can't tell more about it right now due to a
-    NDA I signed. Stay tuned for more info....
-      
-    I am hired for web application parts, and my focus is mainly on application 
-    architecture and devOps (testing, bundling, developer experience, ...), 
-    while mentoring the junior software engineers.
-  core_tools:
-    - html_5
-    - sass
-    - angularjs
-    - fabricator_builder
-  tools:
-    - javascript
-    - css_3
-    - nodejs
-    - bootstrap
-    - angular_ui
-    - rxjs
-    - handlebars
-    - mongodb
-    - twilio
-    - webpack
-    - npm
-    - jira
-    - confluence
--
   id:   mystaff_application
   name: myStaff application
   role: Senior UI/UX/FE Web Application Engineer
+  time: December 2016 ... May 2017
   sites: 
     - "https://healthcare.axians.be/solutions/mystaff/oncall/"
   portfolio: 
@@ -154,9 +132,37 @@
     - jira
     - confluence
 -
+  id:   fabricator_builder
+  name: Fabricator Builder
+  role: Owner && Lead Software Engineer
+  time: July 2015 ... January 2017
+  sites:
+    - "https://github.com/dietergeerts/fabricator-builder"
+  portfolio: []
+  description: |
+    Fabricator Builder is a 'build' tool for creating toolkits. These toolkits
+    can help speed up development and be used as styleguide and documentation.
+    You can also use such tookits in different projects that needs the same
+    styling and frameworks. Think of a toolkit as a small personal bootstrap.
+
+    More info can be found on the
+    [wiki](https://github.com/dietergeerts/fabricator-builder/wiki) page.
+  core_tools:
+    - javascript
+    - html_5
+    - sass
+    - handlebars
+    - gulp
+  tools:
+    - css_3
+    - nodejs
+    - webpack
+    - npm
+-
   id:   myhealthbox_gp_portal
   name: myHealthbox GP portal
   role: Senior FE Web Application Engineer
+  time: November 2016
   sites: 
     - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
   portfolio: []
@@ -194,6 +200,7 @@
   id:   myhealthbox_prototyping_2
   name: myHealthbox prototyping
   role: Senior UI/UX Web Application Engineer
+  time: October 2016
   sites: 
     - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
   portfolio:
@@ -217,6 +224,7 @@
   id:   schoolonline_planner_module
   name: Schoolonline planner module
   role: Medior UI/UX/FE Web Application Engineer
+  time: April ... September 2016
   sites: 
     - "http://schoolonline.be/"
   portfolio:
@@ -258,9 +266,64 @@
     - jira
     - confluence
 -
+  id:   dworks
+  name: DWorks Vectorworks Plugins
+  role: Owner && Lead Software Engineer
+  time: April 2007 ... September 2016
+  sites:
+    - "http://www.vectorlab.info/index.php?title=Dieter_Geerts"
+    - "https://github.com/dietergeerts/dlibrary"
+  portfolio:
+    - "https://1drv.ms/f/s!Ao0jlKHtrXDyhsI6ZhlQc6s5UKVGlQ"
+  description: |
+    After several years of creating Vectorworks plugins in VectorScript, the
+    built-in programming language which really took a lot of Pascal, I switched
+    to using python from the moment it was available. This made it possible to
+    create plugins more easily, faster, and with a lot more possibilities.
+
+    With the start of creating python based plugins, I also started with
+    [DLibrary](https://github.com/dietergeerts/dlibrary), a library for easier
+    plugin creation, which hides away all inconsistencies and gotcha's/bugs you
+    had to know, as all API calls were copied from the VectorScript language. 
+    The first main focus of this library is to have form creation very easy by
+    adding an xml layer to visually lay out the form, and using it by adding a
+    data layer that then get's coupled with two-way data binding. The second 
+    focus was on development experience and to quickly setup a new plugin and 
+    all it's behaviours. [DLibrary](https://github.com/dietergeerts/dlibrary) 
+    is open-source, and though I'm not active on it anymore, can still be used 
+    to create Vectorworks plugins with python. I really hope others can still 
+    contribute to it and make it even better.
+
+    I'm not active on it anymore, because I had to stop my business as of
+    medical reasons, and it was a very hard decision to make. As I didn't want
+    [my plugins](http://www.vectorlab.info/index.php?title=Dieter_Geerts) to go 
+    to waste, I put their repositories on public, so everyone can use them, and 
+    maybe add some new features.
+
+    During this python period, I had the change to work out some great plugins
+    for some customers, putting my skills to use and covering the whole package
+    of delivering software from start to finish. I did it all, from project
+    management, to the analysis, implementation and delivery. I really learned
+    a lot from this and take all of it with me in my further career.
+
+    I would also like to thank the Vectorworks scripting community again. Each
+    of them were really great and helpful, and I really enjoyed being around. I
+    really believe a great community can make a product so much better, and I
+    love helping others, and being helped when needed.
+  core_tools:
+    - python
+    - vectorworks
+    - confluence
+  tools:
+    - nodejs
+    - gulp
+    - npm
+    - jira
+-
   id:   planon_data_migration
   name: Planon data migration
   role: Project Manager && Functional Analyst
+  time: January ... March 2016
   sites: []
   portfolio: []
   description: |
@@ -293,6 +356,7 @@
   id:   qlik_demonstrator
   name: Qlik demonstrator
   role: Medior UI/UX/FE Web Application Engineer
+  time: December 2015 ... January 2016
   sites: []
   portfolio: []
   description: |
@@ -320,6 +384,7 @@
   id:   codex_veb_interface
   name: CODEX VEB interface
   role: Medior UI/UX/FE Web Applicatin Engineer
+  time: October ... December 2015
   sites: []
   portfolio:
     - "https://1drv.ms/f/s!Ao0jlKHtrXDyhsI-y0TkdWmXhWJEJg"
@@ -350,6 +415,7 @@
   id:   hospindex_data_provider_module
   name: HospIndex data provider module
   role: Medior UI/UX/FE Web Application Engineer
+  time: September ... October 2015
   sites: 
     - "http://www.actualcare.be/nl-hospindex/"
   portfolio:
@@ -382,6 +448,7 @@
   id:   myhealthbox
   name: myHealthbox
   role: Medior UI/UX/FE Web Application Engineer
+  time: December 2014 ... August 2015
   sites: 
     - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
   portfolio:
@@ -435,6 +502,7 @@
   id:   iknow_application_prototyping
   name: iKnow Application Prototyping
   role: Medior UI/UX Web Application Engineer
+  time: July 2015
   sites: 
     - "http://www.intersystems.com/bnl-nl/onze-producten/ingebedde-technologieen/iknow/"
   portfolio: []
@@ -454,6 +522,7 @@
   id:   myhealthbox_prototyping
   name: myHealthbox Prototyping
   role: Junior UI/UX Web Application Engineer
+  time: November 2014
   sites: 
     - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
   portfolio: []
@@ -480,6 +549,7 @@
   id:   marketing_websites_prototyping
   name: Marketing Websites Prototyping
   role: Junior UI/UX/FE Website Engineer
+  time: August ... October 2014
   sites: []
   portfolio:
     - "https://1drv.ms/f/s!Ao0jlKHtrXDyhsI_1KTbJUVIi42Uow"
@@ -506,6 +576,7 @@
   id:   studysteps
   name: StudySteps
   role: Junior UI/FE Web Application Engineer
+  time: May ... July 2014
   sites: []
   portfolio: []
   description: |
@@ -545,6 +616,7 @@
   id:   bayer_mbip
   name: Bayer Cropscience Application
   role: Junior UI/UX/FE Web Application Engineer
+  time: May 2013 ... February 2014
   sites: []
   portfolio: []
   description: |
@@ -567,62 +639,10 @@
     - jira
     - confluence
 -
-  id:   dworks
-  name: DWorks Vectorworks Plugins
-  role: Owner && Lead Software Engineer
-  sites:
-    - "http://www.vectorlab.info/index.php?title=Dieter_Geerts"
-    - "https://github.com/dietergeerts/dlibrary"
-  portfolio:
-    - "https://1drv.ms/f/s!Ao0jlKHtrXDyhsI6ZhlQc6s5UKVGlQ"
-  description: |
-    After several years of creating Vectorworks plugins in VectorScript, the
-    built-in programming language which really took a lot of Pascal, I switched
-    to using python from the moment it was available. This made it possible to
-    create plugins more easily, faster, and with a lot more possibilities.
-
-    With the start of creating python based plugins, I also started with
-    [DLibrary](https://github.com/dietergeerts/dlibrary), a library for easier
-    plugin creation, which hides away all inconsistencies and gotcha's/bugs you
-    had to know, as all API calls were copied from the VectorScript language. 
-    The first main focus of this library is to have form creation very easy by
-    adding an xml layer to visually lay out the form, and using it by adding a
-    data layer that then get's coupled with two-way data binding. The second 
-    focus was on development experience and to quickly setup a new plugin and 
-    all it's behaviours. [DLibrary](https://github.com/dietergeerts/dlibrary) 
-    is open-source, and though I'm not active on it anymore, can still be used 
-    to create Vectorworks plugins with python. I really hope others can still 
-    contribute to it and make it even better.
-
-    I'm not active on it anymore, because I had to stop my business as of
-    medical reasons, and it was a very hard decision to make. As I didn't want
-    [my plugins](http://www.vectorlab.info/index.php?title=Dieter_Geerts) to go 
-    to waste, I put their repositories on public, so everyone can use them, and 
-    maybe add some new features.
-
-    During this python period, I had the change to work out some great plugins
-    for some customers, putting my skills to use and covering the whole package
-    of delivering software from start to finish. I did it all, from project
-    management, to the analysis, implementation and delivery. I really learned
-    a lot from this and take all of it with me in my further career.
-
-    I would also like to thank the Vectorworks scripting community again. Each
-    of them were really great and helpful, and I really enjoyed being around. I
-    really believe a great community can make a product so much better, and I
-    love helping others, and being helped when needed.
-  core_tools:
-    - python
-    - vectorworks
-    - confluence
-  tools:
-    - nodejs
-    - gulp
-    - npm
-    - jira
--
   id:   thesis_software_engineer
   name: Thesis Software Engineer
   role: Owner && Lead Software Engineer
+  time: September 2008 ... June 2013
   sites: []
   portfolio:
     - "https://1drv.ms/f/s!Ao0jlKHtrXDyhsJC_jqxGR06NatdkA"
