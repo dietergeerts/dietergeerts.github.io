@@ -23,11 +23,13 @@
   <strong>Role</strong> {{ project.role }}
   <br/>
   <strong>Timing</strong> {{ project.time }}
+  <br/>
+  {% if project.company %}
+  <strong>Company</strong> {{ project.company }}
+  {% endif %}
 </p>
 
 <p>{{ project.description | markdownify }}</p>
-
-{% include tools_grid.html toolIds=project.core_tools size="64" %}
 
 {% include tools_grid.html toolIds=project.tools size="48" %}
 

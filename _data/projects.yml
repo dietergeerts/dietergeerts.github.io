@@ -3,42 +3,43 @@
   name: Dermicus
   role: Senior Full Stack Web Application Engineer
   time: January 2023 ... June 2024
+  company: Barco Solutions NV
   sites:
     - "https://dermicus.com/"
   portfolio: []
   description: |
     __TODO__
-  core_tools:
+  tools:
     - typescript
     - vue
     - php
     - laravel
     - fhir
     - mysql
-  tools: []
 -
   id:   demetra
   name: Demetra
   role: Senior Full Stack Web Application Engineer
   time: April 2021 ... June 2024
+  company: Barco Solutions NV
   sites:
     - "https://www.barco.com/en/support/demetra"
   portfolio: []
   description: |
     __TODO__
-  core_tools:
+  tools:
     - typescript
     - react
     - rxjs
     - nodejs
     - mysql
     - storybook
-  tools: []
 -
   id:   synergy
   name: Synergy
   role: Senior UI/UX/FE Web Application Engineer
   time: May 2017 ... March 2021
+  company: Barco NV
   sites:
     - "https://www.barco.com/en/about/press-releases/2019-02-05-oxford-synergi"
     - "https://www.barco.com/en/inspiration/news-insights/2020-03-26-virtual-clinical-collaboration-when-it-matters-most"
@@ -51,12 +52,11 @@
     I am hired for web application parts, and my focus is mainly on application 
     architecture and devOps (testing, bundling, developer experience, ...), 
     while mentoring the junior software engineers.
-  core_tools:
+  tools:
     - html_5
     - sass
     - angularjs
     - fabricator_builder
-  tools:
     - javascript
     - css_3
     - nodejs
@@ -88,10 +88,9 @@
     of solutions out there, and only 2 where good, sadly the are geared to the
     use of classes, which isn't done in functional programming. So serializr-fp
     was born to fill the gap.
-  core_tools:
+  tools:
     - javascript
     - npm
-  tools:
     - nodejs
 -
   id:   fabricator_builder_next
@@ -112,12 +111,11 @@
     More info can be found on the
     [wiki](https://github.com/dietergeerts/fabricator-builder/wiki)
     page of the original Fabricator Builder.
-  core_tools:
+  tools:
     - nodejs
     - html_5
     - sass
     - webpack
-  tools:
     - javascript
     - css_3
     - handlebars
@@ -127,6 +125,7 @@
   name: myStaff application
   role: Senior UI/UX/FE Web Application Engineer
   time: December 2016 ... May 2017
+  company: Axians
   sites: 
     - "https://healthcare.axians.be/solutions/mystaff/oncall/"
   portfolio: 
@@ -151,12 +150,11 @@
     tools like [Adobe XD](http://www.adobe.com/uk/products/experience-design.html),
     trying to improve the interal UX process in our organisation and working more 
     user oriented for own products.
-  core_tools:
+  tools:
     - typescript
     - html_5
     - sass
     - angular
-  tools:
     - javascript
     - css_3
     - nodejs
@@ -185,13 +183,12 @@
 
     More info can be found on the
     [wiki](https://github.com/dietergeerts/fabricator-builder/wiki) page.
-  core_tools:
+  tools:
     - javascript
     - html_5
     - sass
     - handlebars
     - gulp
-  tools:
     - css_3
     - nodejs
     - webpack
@@ -201,6 +198,7 @@
   name: myHealthbox GP portal
   role: Senior FE Web Application Engineer
   time: November 2016
+  company: Axians
   sites: 
     - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
   portfolio: []
@@ -219,11 +217,10 @@
     better faster, growing more confident, teaching you valuable things to 
     improve yourself over time more and more, and maybe be a mentor yourself
     one day. 
-  core_tools:
+  tools:
     - html_5
     - sass
     - angularjs
-  tools:
     - javascript
     - css_3
     - nodejs
@@ -239,6 +236,7 @@
   name: myHealthbox prototyping
   role: Senior UI/UX Web Application Engineer
   time: October 2016
+  company: Axians
   sites: 
     - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
   portfolio:
@@ -248,11 +246,10 @@
     some UI/UX prototypes for new functionality to see how they could be 
     integrated into existing systems and to test it out with users. Some of 
     these prototypes where also be used for public tender.
-  core_tools:
+  tools:
     - html_5
     - sass
     - fabricator_builder
-  tools:
     - css_3
     - nodejs
     - handlebars
@@ -263,6 +260,7 @@
   name: Schoolonline planner module
   role: Medior UI/UX/FE Web Application Engineer
   time: April ... September 2016
+  company: Axians
   sites: 
     - "http://schoolonline.be/"
   portfolio:
@@ -285,12 +283,11 @@
     Together with [mono](https://mono.company/), we worked on the UI and UX part.
     They especially focussed on the analysis and user testing, while we did more
     of the actual implementation, adapting where needed.
-  core_tools:
+  tools:
     - html_5
     - sass
     - angularjs
     - fabricator_builder
-  tools:
     - javascript
     - css_3
     - nodejs
@@ -308,6 +305,7 @@
   name: DWorks Vectorworks Plugins
   role: Owner && Lead Software Engineer
   time: April 2007 ... September 2016
+  company: DWorks
   sites:
     - "http://www.vectorlab.info/index.php?title=Dieter_Geerts"
     - "https://github.com/dietergeerts/dlibrary"
@@ -348,11 +346,10 @@
     of them were really great and helpful, and I really enjoyed being around. I
     really believe a great community can make a product so much better, and I
     love helping others, and being helped when needed.
-  core_tools:
+  tools:
     - python
     - vectorworks
     - confluence
-  tools:
     - nodejs
     - gulp
     - npm
@@ -362,6 +359,7 @@
   name: Planon data migration
   role: Project Manager && Functional Analyst
   time: January ... March 2016
+  company: Axians
   sites: []
   portfolio: []
   description: |
@@ -385,16 +383,16 @@
     With this project I had the chance to show off my skills as project manager
     and functional analyst. Especially the last is important for me, as imho,
     being able to think like a functional analyst makes me a better engineer.
-  core_tools:
+  tools:
     - sql_server
     - jira
     - confluence
-  tools: []
 -
   id:   qlik_demonstrator
   name: Qlik demonstrator
   role: Medior UI/UX/FE Web Application Engineer
   time: December 2015 ... January 2016
+  company: Axians
   sites: []
   portfolio: []
   description: |
@@ -406,12 +404,11 @@
     
     So I was asked to create a demo project together with someone from Business Analytics.
     I took the UI/UX implementation on me and created an application as a Qlik Sense mashup.
-  core_tools:
+  tools:
     - html_5
     - sass
     - angularjs
     - qlik_sense
-  tools:
     - javascript
     - css_3
     - nodejs
@@ -423,6 +420,7 @@
   name: CODEX VEB interface
   role: Medior UI/UX/FE Web Applicatin Engineer
   time: October ... December 2015
+  company: Axians
   sites: []
   portfolio:
     - "https://1drv.ms/f/s!Ao0jlKHtrXDyhsI-y0TkdWmXhWJEJg"
@@ -438,12 +436,11 @@
     that did know the data inside-out, so no need for special UI/UX 
     requirements. I again was lead engineer after the successful previous
     ASP.NET project.
-  core_tools:
+  tools:
     - html_5
     - c_sharp
     - bootstrap
     - asp_net
-  tools:
     - javascript
     - css_3
     - sql_server
@@ -454,6 +451,7 @@
   name: HospIndex data provider module
   role: Medior UI/UX/FE Web Application Engineer
   time: September ... October 2015
+  company: Axians
   sites: 
     - "http://www.actualcare.be/nl-hospindex/"
   portfolio:
@@ -465,13 +463,12 @@
     store the actual data. We also did custom authentication through the provided 
     web services. I was lead engineer as the one with the most ASP.NET knowledge
     in the company. UI/UX has been decided in collaboration with the client.
-  core_tools:
+  tools:
     - html_5
     - c_sharp
     - angularjs
     - bootstrap
     - asp_net
-  tools:
     - javascript
     - css_3
     - sass
@@ -487,6 +484,7 @@
   name: myHealthbox
   role: Medior UI/UX/FE Web Application Engineer
   time: December 2014 ... August 2015
+  company: Axians
   sites: 
     - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
   portfolio:
@@ -518,13 +516,12 @@
     in with their eID.  
     **Admin Portal** - This module gives the hospital a way to customize the
     other parts of the product through settings, data management etc....
-  core_tools:
+  tools:
     - html_5
     - sass
     - java
     - angularjs
     - fabricator_builder
-  tools:
     - javascript
     - css_3
     - nodejs
@@ -541,6 +538,7 @@
   name: iKnow Application Prototyping
   role: Medior UI/UX Web Application Engineer
   time: July 2015
+  company: Axians
   sites: 
     - "http://www.intersystems.com/bnl-nl/onze-producten/ingebedde-technologieen/iknow/"
   portfolio: []
@@ -552,15 +550,15 @@
     I created high-level UI/UX wireframes to show how hospitals could easily
     analyse the data by dynamic views that showed the context path, so different
     paths could be analyzed together.
-  core_tools: 
+  tools:
     - powerpoint
     - confluence
-  tools: []
 -
   id:   myhealthbox_prototyping
   name: myHealthbox Prototyping
   role: Junior UI/UX Web Application Engineer
   time: November 2014
+  company: Axians
   sites: 
     - "https://healthcare.axians.be/solutions/myhealthbox/online-portaal/"
   portfolio: []
@@ -574,12 +572,11 @@
     We created a static website as prototype, so we could make changes very easy
     and fast and iterate over it quickly. It also was build quick and dirty as
     it was decided we wouldn't take anything from this to start the actual product.
-  core_tools: 
+  tools:
     - html_5
     - sass
     - jade
     - metalsmith
-  tools:
     - css_3
     - gulp
     - nodejs
@@ -588,6 +585,7 @@
   name: Marketing Websites Prototyping
   role: Junior UI/UX/FE Website Engineer
   time: August ... October 2014
+  company: Axians
   sites: []
   portfolio:
     - "https://1drv.ms/f/s!Ao0jlKHtrXDyhsI_1KTbJUVIi42Uow"
@@ -601,12 +599,11 @@
     I worked on these alone, and had the freedom to also design a great deal of
     the websites, keeping in mind the given requirements. Before starting these,
     I had the chance to study PHP and get my certification.
-  core_tools:
+  tools:
     - html_5
     - sass
     - php
     - drupal
-  tools:
     - css_3
     - mysql
     - paint_net   
@@ -615,6 +612,7 @@
   name: StudySteps
   role: Junior UI/FE Web Application Engineer
   time: May ... July 2014
+  company: Axians
   sites: []
   portfolio: []
   description: |
@@ -637,12 +635,11 @@
     it in AngularJS. We had a 2 day course of the framework, as it was fairly
     new then, before starting on the rewrite. I mostly wrote on the custom
     components, including a customized ckeditor with custom plugins.
-  core_tools:
+  tools:
     - html_5
     - sass
     - angularjs
     - dotcms
-  tools:
     - javascript
     - css_3
     - java
@@ -655,6 +652,7 @@
   name: Bayer Cropscience Application
   role: Junior UI/UX/FE Web Application Engineer
   time: May 2013 ... February 2014
+  company: Axians
   sites: []
   portfolio: []
   description: |
@@ -669,11 +667,10 @@
     controls. Besides implementing the different xaml views and defining the
     application architecture, I also focussed on styling. Though I did came on
     the project very late in it's lifecycle, there was still lots to refine.
-  core_tools: 
+  tools:
     - c_sharp
     - silverlight
     - telerik
-  tools:
     - jira
     - confluence
 -
@@ -711,12 +708,11 @@
     
     I really enjoyed doing my thesis, learned a lot from it and imho, a very 
     good start for my career in UI/UX/FE Web Application Engineering.
-  core_tools:
+  tools: 
     - c_sharp
     - php
     - silverlight
     - vectorworks
-  tools: 
     - mysql
 -
   id:   engineer_in_construction
@@ -727,7 +723,6 @@
   portfolio: []
   description: |
     __TODO__
-  core_tools:
+  tools:
     - vectorworks
     - python
-  tools: []
