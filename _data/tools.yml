@@ -54,14 +54,14 @@
   href:   "https://webpack.js.org/"
   group:  primary
 -
+  id:     github_actions
+  name:   GitHub Actions
+  href:   "https://github.com/features/actions"
+  group:  primary
+-
   id:     storybook
   name:   Storybook
   href:   "https://storybook.js.org/"
-  group:  primary
--
-  id:     bootstrap
-  name:   Bootstrap
-  href:   "http://getbootstrap.com/"
   group:  primary
 -
   id:     sass
@@ -109,10 +109,25 @@
   href:   "https://www.microsoft.com/silverlight/"
   group:  
 -
+  id:     qtifw
+  name:   Qt Installer Framework
+  href:   "https://doc.qt.io/qtinstallerframework/"
+  group:
+-
+  id:     renovate
+  name:   Mend Renovate
+  href:   "https://docs.renovatebot.com/"
+  group:
+-
   id:     spring
   name:   Spring
   href:   "https://spring.io/"
   group:  
+-
+  id:     bootstrap
+  name:   Bootstrap
+  href:   "http://getbootstrap.com/"
+  group:
 -
   id:     angular_ui
   name:   UI Bootstrap

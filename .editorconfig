@@ -7,6 +7,7 @@ indent_size = 4
 end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
+ij_visual_guides = 80,100,120
 
 [{*.html,*.hbs,*.json,*.yml}]
 indent_size = 2

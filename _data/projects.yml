@@ -1,4 +1,49 @@
 -
+  id:   elderly_care
+  name: CareConnect into.care
+  role: FE Tech Lead - Expert Web App Engineer
+  time: April 2025 ... Present
+  company: Corilus NV
+  sites:
+    - "https://www.corilus.be/care-connect/into-care"
+  portfolio: []
+  description: |
+    Coming soon...
+  tools:
+    - typescript
+    - nodejs
+    - angular
+    - rxjs
+    - fhir
+    - storybook
+-
+  id:   di_software_suite
+  name: DI Software Suite
+  role: Senior Application Engineer
+  time: July 2024 ... April 2025
+  company: Barco NV
+  sites: []
+  portfolio: []
+  description: |
+    DI Software Suite is a new generation of installer and maintenance software
+    for all Diagnostic Imaging products of the Barco Healthcare division. Making
+    it easier for clients to manage the software on all their workstations. The
+    use of software bundles ensures that clients can be sure that the installed
+    combination of applications is thoroughly tested and validated.
+    
+    With the given that I had to work with the Qt Installer Framework, I build
+    the installer and core packages that defined the installation experience. I
+    worked out a platform and tooling to help the application teams make their
+    installer packages, providing support and guidance where needed. A complete
+    CI/CD pipeline was setup to ensure a smooth development and release process,
+    including automated testing and dependency updates, over multiple projects.
+  tools:
+    - qtifw
+    - javascript
+    - typescript
+    - github_actions
+    - renovate
+-
   id:   dermicus
   name: Dermicus
   role: Senior Full Stack Web Application Engineer
